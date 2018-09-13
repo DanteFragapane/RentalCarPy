@@ -1,0 +1,1000 @@
+{'id': 1, 'vin': '1G6KF57925U648886', 'make': 'Land Rover', 'model': 'Range Rover Classic', 'year': 2016, 'color': 'Purple', 'mileage': 5}
+{'id': 2, 'vin': '1D7RW3BK9AS957695', 'make': 'Buick', 'model': 'Century', 'year': 2016, 'color': 'Purple', 'mileage': 5}
+{'id': 3, 'vin': 'SCBLE47K78C235165', 'make': 'Hyundai', 'model': 'Sonata', 'year': 2016, 'color': 'Green', 'mileage': 3}
+{'id': 4, 'vin': '2G4WD552461196135', 'make': 'Ferrari', 'model': '612 Scaglietti', 'year': 2016, 'color': 'Mauv', 'mileage': 2}
+{'id': 5, 'vin': 'WAUDG94F96N230967', 'make': 'Pontiac', 'model': 'Firefly', 'year': 2016, 'color': 'Maroon', 'mileage': 5}
+{'id': 6, 'vin': 'WAUJC68E23A156776', 'make': 'Chevrolet', 'model': 'Corvette', 'year': 2016, 'color': 'Pink', 'mileage': 3}
+{'id': 7, 'vin': '2FMGK5BC4BB097582', 'make': 'GMC', 'model': 'Savana 3500', 'year': 2015, 'color': 'Fuscia', 'mileage': 5}
+{'id': 8, 'vin': '5N1AA0NC6EN989593', 'make': 'Mercury', 'model': 'Grand Marquis', 'year': 2016, 'color': 'Indigo', 'mileage': 3}
+{'id': 9, 'vin': '1D7RB1GT8BS740982', 'make': 'Lotus', 'model': 'Elise', 'year': 2018, 'color': 'Orange', 'mileage': 5}
+{'id': 10, 'vin': '4T1BD1EBXEU434600', 'make': 'Geo', 'model': 'Prizm', 'year': 2018, 'color': 'Turquoise', 'mileage': 4}
+{'id': 11, 'vin': '1G6DL5EY9B0485605', 'make': 'Acura', 'model': 'ZDX', 'year': 2016, 'color': 'Teal', 'mileage': 2}
+{'id': 12, 'vin': '1ZVBP8JS1A5358261', 'make': 'Mercury', 'model': 'Milan', 'year': 2016, 'color': 'Orange', 'mileage': 5}
+{'id': 13, 'vin': 'JH4CU2E87EC911376', 'make': 'Mazda', 'model': 'MX-5', 'year': 2015, 'color': 'Fuscia', 'mileage': 4}
+{'id': 14, 'vin': '5J8TB4H52GL884175', 'make': 'Dodge', 'model': 'Magnum', 'year': 2016, 'color': 'Green', 'mileage': 5}
+{'id': 15, 'vin': 'WBAGH83451D142226', 'make': 'Ford', 'model': 'Windstar', 'year': 2016, 'color': 'Blue', 'mileage': 3}
+{'id': 16, 'vin': '4T1BD1EB3EU255752', 'make': 'Infiniti', 'model': 'Q', 'year': 2018, 'color': 'Puce', 'mileage': 5}
+{'id': 17, 'vin': '3D73Y4CL4AG729334', 'make': 'Ford', 'model': 'Econoline E350', 'year': 2018, 'color': 'Violet', 'mileage': 2}
+{'id': 18, 'vin': 'SAJWA4HA8EM910816', 'make': 'Porsche', 'model': 'Cayman', 'year': 2015, 'color': 'Khaki', 'mileage': 4}
+{'id': 19, 'vin': 'YV1902MD3F1903742', 'make': 'Toyota', 'model': 'RAV4', 'year': 2015, 'color': 'Violet', 'mileage': 3}
+{'id': 20, 'vin': 'JTHDU1EF0E5764092', 'make': 'Audi', 'model': '100', 'year': 2018, 'color': 'Teal', 'mileage': 4}
+{'id': 21, 'vin': '3D73Y3CL3AG302592', 'make': 'Lincoln', 'model': 'Mark VIII', 'year': 2016, 'color': 'Turquoise', 'mileage': 4}
+{'id': 22, 'vin': 'WBAKC8C5XAC519723', 'make': 'Chevrolet', 'model': 'Tahoe', 'year': 2017, 'color': 'Pink', 'mileage': 2}
+{'id': 23, 'vin': '1G6DL1ED1B0992648', 'make': 'Mercury', 'model': 'Mariner', 'year': 2016, 'color': 'Blue', 'mileage': 1}
+{'id': 24, 'vin': '1G4PP5SK3D4488120', 'make': 'Land Rover', 'model': 'Range Rover Sport', 'year': 2018, 'color': 'Puce', 'mileage': 5}
+{'id': 25, 'vin': 'WUADUAFG4F7905182', 'make': 'Ford', 'model': 'Mustang', 'year': 2017, 'color': 'Mauv', 'mileage': 5}
+{'id': 26, 'vin': '1GYEK63N86R380374', 'make': 'Mitsubishi', 'model': 'Truck', 'year': 2018, 'color': 'Orange', 'mileage': 4}
+{'id': 27, 'vin': 'JN1AY1AR1DM734843', 'make': 'Mitsubishi', 'model': 'Diamante', 'year': 2016, 'color': 'Indigo', 'mileage': 5}
+{'id': 28, 'vin': 'KMHCT4AE1CU927832', 'make': 'Dodge', 'model': 'Dakota', 'year': 2016, 'color': 'Crimson', 'mileage': 5}
+{'id': 29, 'vin': 'WP0CB2A80CS594721', 'make': 'Mercedes-Benz', 'model': 'S-Class', 'year': 2017, 'color': 'Crimson', 'mileage': 5}
+{'id': 30, 'vin': 'WAUDGBFL9CA739020', 'make': 'Jeep', 'model': 'Wrangler', 'year': 2018, 'color': 'Fuscia', 'mileage': 5}
+{'id': 31, 'vin': 'JHMZF1C67DS056988', 'make': 'Nissan', 'model': '200SX', 'year': 2016, 'color': 'Turquoise', 'mileage': 5}
+{'id': 32, 'vin': '1FMCU0C79AK471217', 'make': 'Ferrari', 'model': '599 GTB Fiorano', 'year': 2015, 'color': 'Khaki', 'mileage': 4}
+{'id': 33, 'vin': '1GTN1TEH3FZ107132', 'make': 'Ford', 'model': 'Bronco', 'year': 2016, 'color': 'Orange', 'mileage': 5}
+{'id': 34, 'vin': '2HNYD18214H574010', 'make': 'Honda', 'model': 'Civic', 'year': 2016, 'color': 'Goldenrod', 'mileage': 3}
+{'id': 35, 'vin': '5TDBK3EHXBS469342', 'make': 'Jeep', 'model': 'Grand Cherokee', 'year': 2017, 'color': 'Blue', 'mileage': 4}
+{'id': 36, 'vin': 'JHMFA3F29AS609626', 'make': 'Mitsubishi', 'model': 'Galant', 'year': 2015, 'color': 'Yellow', 'mileage': 1}
+{'id': 37, 'vin': 'WAUJT54B54N310512', 'make': 'Chevrolet', 'model': '3500', 'year': 2018, 'color': 'Blue', 'mileage': 1}
+{'id': 38, 'vin': 'SAJWA4DC9AM590973', 'make': 'Dodge', 'model': 'Stratus', 'year': 2016, 'color': 'Maroon', 'mileage': 4}
+{'id': 39, 'vin': '3D4PG4FB3AT261379', 'make': 'Volvo', 'model': '940', 'year': 2016, 'color': 'Teal', 'mileage': 2}
+{'id': 40, 'vin': '5LMJJ2JT2FE555879', 'make': 'Toyota', 'model': 'Solara', 'year': 2018, 'color': 'Indigo', 'mileage': 3}
+{'id': 41, 'vin': 'WP0AB2A8XCU783341', 'make': 'Suzuki', 'model': 'XL-7', 'year': 2015, 'color': 'Fuscia', 'mileage': 3}
+{'id': 42, 'vin': 'WBAYA8C52ED264081', 'make': 'Acura', 'model': 'RDX', 'year': 2017, 'color': 'Indigo', 'mileage': 2}
+{'id': 43, 'vin': '3D73M3CL8AG028737', 'make': 'Pontiac', 'model': 'G3', 'year': 2016, 'color': 'Mauv', 'mileage': 1}
+{'id': 44, 'vin': 'JTDBT4K35CL251162', 'make': 'Ford', 'model': 'Expedition', 'year': 2017, 'color': 'Turquoise', 'mileage': 5}
+{'id': 45, 'vin': 'SALME1D45CA228900', 'make': 'Chevrolet', 'model': 'Traverse', 'year': 2015, 'color': 'Pink', 'mileage': 4}
+{'id': 46, 'vin': 'WA1LFBFP2BA099570', 'make': 'Chevrolet', 'model': 'Impala', 'year': 2015, 'color': 'Orange', 'mileage': 3}
+{'id': 47, 'vin': 'WAUKGAFB3BN850288', 'make': 'Chevrolet', 'model': 'Camaro', 'year': 2018, 'color': 'Turquoise', 'mileage': 3}
+{'id': 48, 'vin': '1C6RD7MT8CS256959', 'make': 'Chevrolet', 'model': 'Sportvan G20', 'year': 2015, 'color': 'Blue', 'mileage': 4}
+{'id': 49, 'vin': '1NXBU4EEXAZ674509', 'make': 'Mitsubishi', 'model': '3000GT', 'year': 2017, 'color': 'Purple', 'mileage': 5}
+{'id': 50, 'vin': 'WAUHF78P99A501789', 'make': 'Chevrolet', 'model': 'Express 1500', 'year': 2018, 'color': 'Maroon', 'mileage': 1}
+{'id': 51, 'vin': '1C4NJCBA2DD589447', 'make': 'GMC', 'model': 'Sierra', 'year': 2015, 'color': 'Blue', 'mileage': 1}
+{'id': 52, 'vin': 'WBXPC93428W245435', 'make': 'Volvo', 'model': 'V70', 'year': 2018, 'color': 'Yellow', 'mileage': 5}
+{'id': 53, 'vin': '5BZAF0AA6EN887320', 'make': 'Chevrolet', 'model': 'S10', 'year': 2018, 'color': 'Khaki', 'mileage': 5}
+{'id': 54, 'vin': 'JHMZF1C69FS778496', 'make': 'GMC', 'model': 'Savana', 'year': 2018, 'color': 'Violet', 'mileage': 4}
+{'id': 55, 'vin': '1G4PR5SK7C4989133', 'make': 'GMC', 'model': '3500 Club Coupe', 'year': 2015, 'color': 'Blue', 'mileage': 2}
+{'id': 56, 'vin': '1G6DJ1ED8B0009633', 'make': 'Porsche', 'model': '944', 'year': 2016, 'color': 'Maroon', 'mileage': 2}
+{'id': 57, 'vin': 'JTMHY7AJ3B5838475', 'make': 'Chevrolet', 'model': 'Corsica', 'year': 2018, 'color': 'Puce', 'mileage': 3}
+{'id': 58, 'vin': 'WBABS33433P957878', 'make': 'Mitsubishi', 'model': '3000GT', 'year': 2018, 'color': 'Red', 'mileage': 1}
+{'id': 59, 'vin': 'WBAHN83546D171648', 'make': 'Dodge', 'model': 'Ram 1500 Club', 'year': 2015, 'color': 'Khaki', 'mileage': 1}
+{'id': 60, 'vin': 'WDBWK5JA2BF868119', 'make': 'Ford', 'model': 'F150', 'year': 2015, 'color': 'Pink', 'mileage': 3}
+{'id': 61, 'vin': '3C3CFFHH2DT638496', 'make': 'Buick', 'model': 'Regal', 'year': 2016, 'color': 'Puce', 'mileage': 5}
+{'id': 62, 'vin': '3GYFNEEY7AS652495', 'make': 'Toyota', 'model': 'FJ Cruiser', 'year': 2016, 'color': 'Pink', 'mileage': 2}
+{'id': 63, 'vin': '1J4PR4GK4AC405159', 'make': 'Subaru', 'model': 'Impreza', 'year': 2017, 'color': 'Crimson', 'mileage': 4}
+{'id': 64, 'vin': '1N6AD0CU4EN501312', 'make': 'Dodge', 'model': 'Journey', 'year': 2015, 'color': 'Puce', 'mileage': 4}
+{'id': 65, 'vin': '1G4GF5E31CF473030', 'make': 'Nissan', 'model': 'Xterra', 'year': 2016, 'color': 'Teal', 'mileage': 3}
+{'id': 66, 'vin': 'JTHBL5EF4F1710269', 'make': 'Mitsubishi', 'model': 'Challenger', 'year': 2017, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 67, 'vin': 'KM8NU4CC7BU541383', 'make': 'Mercedes-Benz', 'model': '600SEC', 'year': 2016, 'color': 'Turquoise', 'mileage': 2}
+{'id': 68, 'vin': 'WBAVB17556N340406', 'make': 'Ford', 'model': 'F350', 'year': 2016, 'color': 'Maroon', 'mileage': 1}
+{'id': 69, 'vin': '1C4RDJAG9EC269360', 'make': 'Kia', 'model': 'Sportage', 'year': 2016, 'color': 'Pink', 'mileage': 1}
+{'id': 70, 'vin': 'WBAPL33509A697639', 'make': 'Cadillac', 'model': 'CTS', 'year': 2015, 'color': 'Aquamarine', 'mileage': 4}
+{'id': 71, 'vin': 'JTDKN3DP4D3860586', 'make': 'Ford', 'model': 'Econoline E250', 'year': 2017, 'color': 'Orange', 'mileage': 3}
+{'id': 72, 'vin': 'WAUCFAFHXFN147143', 'make': 'Ford', 'model': 'Ranger', 'year': 2018, 'color': 'Pink', 'mileage': 2}
+{'id': 73, 'vin': '1D7RE3GK6AS281976', 'make': 'Honda', 'model': 'Fit', 'year': 2017, 'color': 'Purple', 'mileage': 1}
+{'id': 74, 'vin': '1FTEW1CW1AF259568', 'make': 'Dodge', 'model': 'Ram 3500 Club', 'year': 2015, 'color': 'Indigo', 'mileage': 3}
+{'id': 75, 'vin': 'WA1DMAFPXFA018504', 'make': 'Dodge', 'model': 'Dakota', 'year': 2017, 'color': 'Fuscia', 'mileage': 1}
+{'id': 76, 'vin': 'WAUMFAFRXFA561754', 'make': 'Mitsubishi', 'model': 'Space', 'year': 2016, 'color': 'Green', 'mileage': 3}
+{'id': 77, 'vin': '2G4WN58CX91364706', 'make': 'Chevrolet', 'model': 'Camaro', 'year': 2016, 'color': 'Orange', 'mileage': 4}
+{'id': 78, 'vin': '5YMKT6C53F0520011', 'make': 'Cadillac', 'model': 'Seville', 'year': 2018, 'color': 'Red', 'mileage': 3}
+{'id': 79, 'vin': '5UMCN93452L266743', 'make': 'Pontiac', 'model': '1000', 'year': 2015, 'color': 'Puce', 'mileage': 3}
+{'id': 80, 'vin': 'JTJBC1BAXC2265283', 'make': 'Acura', 'model': 'TL', 'year': 2018, 'color': 'Green', 'mileage': 5}
+{'id': 81, 'vin': 'SALFR2BN4CH392483', 'make': 'Nissan', 'model': 'Altima', 'year': 2017, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 82, 'vin': '1GYUKAEF8AR401009', 'make': 'BMW', 'model': 'Z4', 'year': 2018, 'color': 'Maroon', 'mileage': 5}
+{'id': 83, 'vin': '1GYS3AKJ9FR969497', 'make': 'Scion', 'model': 'tC', 'year': 2016, 'color': 'Crimson', 'mileage': 5}
+{'id': 84, 'vin': '1G4GA5ECXAF727099', 'make': 'Mercury', 'model': 'Mountaineer', 'year': 2016, 'color': 'Khaki', 'mileage': 1}
+{'id': 85, 'vin': 'SCBZB25E32C537242', 'make': 'Dodge', 'model': 'Viper', 'year': 2015, 'color': 'Aquamarine', 'mileage': 3}
+{'id': 86, 'vin': '3GYFK66N34G027764', 'make': 'Dodge', 'model': 'Neon', 'year': 2016, 'color': 'Pink', 'mileage': 2}
+{'id': 87, 'vin': '3D73Y4CL0BG398978', 'make': 'Mercedes-Benz', 'model': 'M-Class', 'year': 2018, 'color': 'Khaki', 'mileage': 5}
+{'id': 88, 'vin': 'SCBBB7ZH2BC316430', 'make': 'Volkswagen', 'model': 'Fox', 'year': 2017, 'color': 'Aquamarine', 'mileage': 2}
+{'id': 89, 'vin': 'JTJHY7AX8E4844218', 'make': 'Pontiac', 'model': 'Grand Prix', 'year': 2017, 'color': 'Aquamarine', 'mileage': 2}
+{'id': 90, 'vin': 'JN1BV7AP8FM010276', 'make': 'GMC', 'model': 'Rally Wagon G2500', 'year': 2017, 'color': 'Purple', 'mileage': 4}
+{'id': 91, 'vin': 'WAULFAFH6CN497994', 'make': 'Saab', 'model': '9-5', 'year': 2016, 'color': 'Teal', 'mileage': 4}
+{'id': 92, 'vin': '1G4GF5G38DF175671', 'make': 'BMW', 'model': '6 Series', 'year': 2017, 'color': 'Indigo', 'mileage': 3}
+{'id': 93, 'vin': '1G6DU6EA2A0549374', 'make': 'Hummer', 'model': 'H3', 'year': 2015, 'color': 'Indigo', 'mileage': 5}
+{'id': 94, 'vin': 'WAUNF98P88A297693', 'make': 'Panoz', 'model': 'Esperante', 'year': 2015, 'color': 'Khaki', 'mileage': 1}
+{'id': 95, 'vin': '5J6TF3H53FL849943', 'make': 'Dodge', 'model': 'Caravan', 'year': 2015, 'color': 'Teal', 'mileage': 4}
+{'id': 96, 'vin': '2C4RDGBG3FR032826', 'make': 'Chrysler', 'model': 'Voyager', 'year': 2015, 'color': 'Pink', 'mileage': 5}
+{'id': 97, 'vin': '1FA6P0H7XF5713061', 'make': 'Buick', 'model': 'LeSabre', 'year': 2015, 'color': 'Indigo', 'mileage': 4}
+{'id': 98, 'vin': 'JTJYWRBZ7F2252369', 'make': 'Toyota', 'model': 'Highlander', 'year': 2016, 'color': 'Pink', 'mileage': 2}
+{'id': 99, 'vin': '5N1AN0NW9FN385973', 'make': 'GMC', 'model': 'Sonoma Club', 'year': 2017, 'color': 'Fuscia', 'mileage': 5}
+{'id': 100, 'vin': '1FMJK1G5XEE881427', 'make': 'Toyota', 'model': 'Land Cruiser', 'year': 2017, 'color': 'Aquamarine', 'mileage': 3}
+{'id': 101, 'vin': 'JN1AZ4FH2FM543465', 'make': 'Chevrolet', 'model': 'Sportvan G20', 'year': 2017, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 102, 'vin': '5XXGM4A78EG023246', 'make': 'Mitsubishi', 'model': 'Mirage', 'year': 2018, 'color': 'Maroon', 'mileage': 4}
+{'id': 103, 'vin': '5GADV33W57D733346', 'make': 'Ford', 'model': 'Tempo', 'year': 2016, 'color': 'Purple', 'mileage': 2}
+{'id': 104, 'vin': 'JN1AZ4FH5FM268173', 'make': 'Lincoln', 'model': 'Continental Mark VII', 'year': 2015, 'color': 'Teal', 'mileage': 3}
+{'id': 105, 'vin': 'JTEBU4BFXDK719977', 'make': 'Volkswagen', 'model': 'Jetta III', 'year': 2016, 'color': 'Fuscia', 'mileage': 1}
+{'id': 106, 'vin': 'WA1AV74L77D781583', 'make': 'Chevrolet', 'model': 'Volt', 'year': 2017, 'color': 'Maroon', 'mileage': 5}
+{'id': 107, 'vin': 'JTMHY7AJXF4284752', 'make': 'Subaru', 'model': 'Legacy', 'year': 2015, 'color': 'Orange', 'mileage': 2}
+{'id': 108, 'vin': 'WAUAF78E88A087144', 'make': 'Toyota', 'model': 'Yaris', 'year': 2015, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 109, 'vin': 'WBADT634X1C271428', 'make': 'Volkswagen', 'model': 'Golf', 'year': 2016, 'color': 'Khaki', 'mileage': 5}
+{'id': 110, 'vin': 'JTHBW1GG0D2419412', 'make': 'Chevrolet', 'model': 'Express 3500', 'year': 2015, 'color': 'Fuscia', 'mileage': 1}
+{'id': 111, 'vin': 'YV1612FH0E1189857', 'make': 'Dodge', 'model': 'Ram 3500', 'year': 2018, 'color': 'Orange', 'mileage': 2}
+{'id': 112, 'vin': 'JTEBU5JR2A5032102', 'make': 'Mazda', 'model': 'CX-9', 'year': 2018, 'color': 'Turquoise', 'mileage': 5}
+{'id': 113, 'vin': 'WAUDK78T19A613543', 'make': 'Chrysler', 'model': '300', 'year': 2017, 'color': 'Orange', 'mileage': 1}
+{'id': 114, 'vin': 'JN8AS5MT2FW923123', 'make': 'Ford', 'model': 'E-Series', 'year': 2015, 'color': 'Pink', 'mileage': 5}
+{'id': 115, 'vin': '1GYUKHEF9AR477055', 'make': 'Land Rover', 'model': 'Freelander', 'year': 2016, 'color': 'Maroon', 'mileage': 3}
+{'id': 116, 'vin': '4T1BF3EK5BU136702', 'make': 'Saturn', 'model': 'VUE', 'year': 2017, 'color': 'Maroon', 'mileage': 5}
+{'id': 117, 'vin': 'WBAVC73557K739101', 'make': 'Dodge', 'model': 'Ram 2500 Club', 'year': 2015, 'color': 'Orange', 'mileage': 2}
+{'id': 118, 'vin': 'WA1WKBFP3BA825817', 'make': 'Saab', 'model': '9-5', 'year': 2018, 'color': 'Red', 'mileage': 1}
+{'id': 119, 'vin': '3C6TD5FT3CG241249', 'make': 'Volvo', 'model': 'XC90', 'year': 2016, 'color': 'Mauv', 'mileage': 3}
+{'id': 120, 'vin': '5N1AR1NB8BC848263', 'make': 'Chevrolet', 'model': 'Venture', 'year': 2018, 'color': 'Mauv', 'mileage': 1}
+{'id': 121, 'vin': 'JN8AZ2KR1CT128014', 'make': 'Rolls-Royce', 'model': 'Phantom', 'year': 2015, 'color': 'Teal', 'mileage': 3}
+{'id': 122, 'vin': 'WVWBN7AN2FE306951', 'make': 'Chrysler', 'model': 'PT Cruiser', 'year': 2018, 'color': 'Crimson', 'mileage': 5}
+{'id': 123, 'vin': '2HNYB1H27AH021928', 'make': 'Jeep', 'model': 'Wrangler', 'year': 2015, 'color': 'Yellow', 'mileage': 1}
+{'id': 124, 'vin': 'WAUJC58E25A099654', 'make': 'Mercedes-Benz', 'model': 'C-Class', 'year': 2016, 'color': 'Turquoise', 'mileage': 4}
+{'id': 125, 'vin': '5YMGZ0C52BL356194', 'make': 'Mitsubishi', 'model': 'Galant', 'year': 2018, 'color': 'Crimson', 'mileage': 5}
+{'id': 126, 'vin': 'WAUNF98P18A762749', 'make': 'Lotus', 'model': 'Elan', 'year': 2016, 'color': 'Teal', 'mileage': 2}
+{'id': 127, 'vin': '1G4GE5EDXBF324674', 'make': 'Kia', 'model': 'Sorento', 'year': 2018, 'color': 'Mauv', 'mileage': 1}
+{'id': 128, 'vin': '1GYS3PKJ3FR566358', 'make': 'Suzuki', 'model': 'XL-7', 'year': 2015, 'color': 'Turquoise', 'mileage': 3}
+{'id': 129, 'vin': '1N6AA0EC3DN903186', 'make': 'Dodge', 'model': 'Viper', 'year': 2016, 'color': 'Green', 'mileage': 4}
+{'id': 130, 'vin': 'JH4CU2F61AC460839', 'make': 'Mitsubishi', 'model': 'Diamante', 'year': 2017, 'color': 'Fuscia', 'mileage': 1}
+{'id': 131, 'vin': 'WA1YD54B53N006202', 'make': 'Acura', 'model': 'TL', 'year': 2017, 'color': 'Green', 'mileage': 3}
+{'id': 132, 'vin': '3VW507AT4FM537920', 'make': 'Dodge', 'model': 'Ram Van 2500', 'year': 2018, 'color': 'Violet', 'mileage': 2}
+{'id': 133, 'vin': '2HNYD18685H044024', 'make': 'Suzuki', 'model': 'Esteem', 'year': 2018, 'color': 'Puce', 'mileage': 1}
+{'id': 134, 'vin': 'WBSBL93472J290830', 'make': 'Mazda', 'model': 'RX-7', 'year': 2017, 'color': 'Teal', 'mileage': 1}
+{'id': 135, 'vin': 'WBAUP93549V153244', 'make': 'Mitsubishi', 'model': 'Eclipse', 'year': 2018, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 136, 'vin': '1C3CDZBG0DN802397', 'make': 'Ford', 'model': 'E-Series', 'year': 2016, 'color': 'Puce', 'mileage': 4}
+{'id': 137, 'vin': '3VW4A7AT1DM382202', 'make': 'Toyota', 'model': 'Camry', 'year': 2018, 'color': 'Orange', 'mileage': 3}
+{'id': 138, 'vin': 'WAUMFAFH6FN028526', 'make': 'Ford', 'model': 'Fiesta', 'year': 2018, 'color': 'Yellow', 'mileage': 2}
+{'id': 139, 'vin': 'YV4852CT0A1216980', 'make': 'Toyota', 'model': 'Land Cruiser', 'year': 2016, 'color': 'Red', 'mileage': 3}
+{'id': 140, 'vin': '3FADP4AJ1BM317125', 'make': 'Nissan', 'model': 'Versa', 'year': 2017, 'color': 'Fuscia', 'mileage': 1}
+{'id': 141, 'vin': 'WAUSF98K89N746369', 'make': 'Chrysler', 'model': 'Sebring', 'year': 2018, 'color': 'Yellow', 'mileage': 5}
+{'id': 142, 'vin': '1C6RD7KP5CS390771', 'make': 'Volvo', 'model': 'S90', 'year': 2018, 'color': 'Violet', 'mileage': 3}
+{'id': 143, 'vin': '3N1AB7AP4FL511714', 'make': 'Buick', 'model': 'LeSabre', 'year': 2018, 'color': 'Turquoise', 'mileage': 1}
+{'id': 144, 'vin': '1FMJU1F56AE109108', 'make': 'Ford', 'model': 'Focus', 'year': 2016, 'color': 'Purple', 'mileage': 1}
+{'id': 145, 'vin': '1G6DA67V580566124', 'make': 'Ford', 'model': 'Ranger', 'year': 2018, 'color': 'Blue', 'mileage': 2}
+{'id': 146, 'vin': '3GYFK66N14G316612', 'make': 'Saturn', 'model': 'S-Series', 'year': 2015, 'color': 'Aquamarine', 'mileage': 1}
+{'id': 147, 'vin': 'WVGAV3AX0EW462982', 'make': 'Mercury', 'model': 'Topaz', 'year': 2017, 'color': 'Indigo', 'mileage': 4}
+{'id': 148, 'vin': '1G4GF5G36DF736725', 'make': 'Jaguar', 'model': 'S-Type', 'year': 2018, 'color': 'Red', 'mileage': 5}
+{'id': 149, 'vin': '4T1BD1EB1DU173839', 'make': 'Dodge', 'model': 'Ram Van B250', 'year': 2015, 'color': 'Khaki', 'mileage': 3}
+{'id': 150, 'vin': '1FT7W2A67EE282057', 'make': 'Pontiac', 'model': 'Grand Prix', 'year': 2017, 'color': 'Aquamarine', 'mileage': 3}
+{'id': 151, 'vin': '1GD11ZCG6BF258047', 'make': 'Audi', 'model': '5000CS', 'year': 2018, 'color': 'Blue', 'mileage': 1}
+{'id': 152, 'vin': '1GD220CG8CZ623101', 'make': 'Ford', 'model': 'E350', 'year': 2015, 'color': 'Orange', 'mileage': 4}
+{'id': 153, 'vin': 'SCFEBBDL6EG604944', 'make': 'Mazda', 'model': 'Mazda3', 'year': 2016, 'color': 'Indigo', 'mileage': 3}
+{'id': 154, 'vin': '1N6AD0CW1FN224279', 'make': 'Chevrolet', 'model': 'Lumina', 'year': 2016, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 155, 'vin': '1C4AJWAG5FL820551', 'make': 'GMC', 'model': 'Vandura G3500', 'year': 2018, 'color': 'Pink', 'mileage': 5}
+{'id': 156, 'vin': 'JN1CV6EK3CM637430', 'make': 'Oldsmobile', 'model': 'Ciera', 'year': 2017, 'color': 'Puce', 'mileage': 1}
+{'id': 157, 'vin': 'WBA3V7C52FP640755', 'make': 'Acura', 'model': 'NSX', 'year': 2016, 'color': 'Teal', 'mileage': 2}
+{'id': 158, 'vin': 'KNAFT4A24A5980293', 'make': 'Ford', 'model': 'Thunderbird', 'year': 2015, 'color': 'Pink', 'mileage': 4}
+{'id': 159, 'vin': '3D73Y4CL7BG601543', 'make': 'Mitsubishi', 'model': 'Galant', 'year': 2015, 'color': 'Aquamarine', 'mileage': 4}
+{'id': 160, 'vin': '5UXFE43589L539602', 'make': 'GMC', 'model': 'Sierra 2500', 'year': 2015, 'color': 'Orange', 'mileage': 4}
+{'id': 161, 'vin': '2C3CCAJG3DH347074', 'make': 'Audi', 'model': 'A6', 'year': 2016, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 162, 'vin': '2LMDJ6JC8AB600775', 'make': 'Oldsmobile', 'model': 'Cutlass', 'year': 2017, 'color': 'Violet', 'mileage': 2}
+{'id': 163, 'vin': 'WAUNF98P46A831429', 'make': 'Pontiac', 'model': 'Grand Prix', 'year': 2018, 'color': 'Orange', 'mileage': 1}
+{'id': 164, 'vin': 'WAUGN94F59N121526', 'make': 'Chevrolet', 'model': 'Silverado 1500', 'year': 2017, 'color': 'Yellow', 'mileage': 2}
+{'id': 165, 'vin': 'SAJWA4DC6FM760018', 'make': 'Porsche', 'model': '911', 'year': 2018, 'color': 'Orange', 'mileage': 5}
+{'id': 166, 'vin': 'WBAFR7C50CD436518', 'make': 'Mazda', 'model': 'MX-5', 'year': 2017, 'color': 'Turquoise', 'mileage': 3}
+{'id': 167, 'vin': 'WAULC68E15A594247', 'make': 'Mercedes-Benz', 'model': 'SL-Class', 'year': 2018, 'color': 'Puce', 'mileage': 5}
+{'id': 168, 'vin': 'WBSPM9C5XBE708415', 'make': 'Toyota', 'model': 'Land Cruiser', 'year': 2017, 'color': 'Indigo', 'mileage': 5}
+{'id': 169, 'vin': '1G4GE5E31CF391494', 'make': 'Chrysler', 'model': 'Pacifica', 'year': 2015, 'color': 'Orange', 'mileage': 4}
+{'id': 170, 'vin': 'WAUHF98P39A620935', 'make': 'BMW', 'model': 'X5', 'year': 2015, 'color': 'Red', 'mileage': 4}
+{'id': 171, 'vin': 'JM3TB2BV0D0885521', 'make': 'Subaru', 'model': 'Legacy', 'year': 2015, 'color': 'Turquoise', 'mileage': 4}
+{'id': 172, 'vin': 'VNKKTUD3XFA631974', 'make': 'Volkswagen', 'model': 'Golf', 'year': 2018, 'color': 'Teal', 'mileage': 4}
+{'id': 173, 'vin': '5TDBCRFH5FS993549', 'make': 'GMC', 'model': 'Savana 2500', 'year': 2016, 'color': 'Teal', 'mileage': 4}
+{'id': 174, 'vin': '3G5DB03E35S512474', 'make': 'Volkswagen', 'model': 'GTI', 'year': 2016, 'color': 'Purple', 'mileage': 1}
+{'id': 175, 'vin': 'SAJWA0F7XF8747208', 'make': 'Lexus', 'model': 'LX', 'year': 2016, 'color': 'Red', 'mileage': 5}
+{'id': 176, 'vin': '1G6DW67V690620789', 'make': 'Chevrolet', 'model': 'TrailBlazer', 'year': 2017, 'color': 'Yellow', 'mileage': 2}
+{'id': 177, 'vin': 'SALVN2BG0FH403864', 'make': 'Mazda', 'model': 'MX-5', 'year': 2016, 'color': 'Blue', 'mileage': 2}
+{'id': 178, 'vin': '1N6AA0CC2EN647398', 'make': 'Suzuki', 'model': 'Sidekick', 'year': 2017, 'color': 'Maroon', 'mileage': 1}
+{'id': 179, 'vin': '1G6DF5EG6A0624070', 'make': 'Cadillac', 'model': 'Escalade', 'year': 2017, 'color': 'Orange', 'mileage': 3}
+{'id': 180, 'vin': 'JM1GJ1U58F1708801', 'make': 'Mercedes-Benz', 'model': 'E-Class', 'year': 2017, 'color': 'Aquamarine', 'mileage': 1}
+{'id': 181, 'vin': '3D73Y4CL0BG996746', 'make': 'Mercedes-Benz', 'model': 'E-Class', 'year': 2016, 'color': 'Red', 'mileage': 1}
+{'id': 182, 'vin': '5UXFA13554L596391', 'make': 'Lexus', 'model': 'ES', 'year': 2018, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 183, 'vin': 'WBASP0C52DC303178', 'make': 'Buick', 'model': 'Somerset', 'year': 2018, 'color': 'Blue', 'mileage': 5}
+{'id': 184, 'vin': 'WBASP4C50BC081650', 'make': 'Pontiac', 'model': 'Firefly', 'year': 2017, 'color': 'Teal', 'mileage': 1}
+{'id': 185, 'vin': 'WBA3A5C52CF577156', 'make': 'Ford', 'model': 'Laser', 'year': 2018, 'color': 'Green', 'mileage': 5}
+{'id': 186, 'vin': 'WA1VMAFP6FA755722', 'make': 'BMW', 'model': '545', 'year': 2017, 'color': 'Orange', 'mileage': 3}
+{'id': 187, 'vin': '5N1AR2MMXFC786251', 'make': 'Volvo', 'model': 'V90', 'year': 2015, 'color': 'Pink', 'mileage': 1}
+{'id': 188, 'vin': '3D7TP2CT7AG488330', 'make': 'Ford', 'model': 'F-Series', 'year': 2015, 'color': 'Green', 'mileage': 2}
+{'id': 189, 'vin': '2G4WY55J611576209', 'make': 'Mitsubishi', 'model': 'Mirage', 'year': 2018, 'color': 'Yellow', 'mileage': 1}
+{'id': 190, 'vin': '1GKS2FFJ7BR305259', 'make': 'Volkswagen', 'model': 'Cabriolet', 'year': 2018, 'color': 'Pink', 'mileage': 1}
+{'id': 191, 'vin': 'WAUDV74F99N556475', 'make': 'Chevrolet', 'model': 'Silverado', 'year': 2016, 'color': 'Puce', 'mileage': 2}
+{'id': 192, 'vin': 'WA1CV74L79D628018', 'make': 'Mazda', 'model': 'MPV', 'year': 2018, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 193, 'vin': '1J4PN2GK2AW483910', 'make': 'Bugatti', 'model': 'Veyron', 'year': 2018, 'color': 'Orange', 'mileage': 3}
+{'id': 194, 'vin': 'WAULT54B82N116238', 'make': 'Chevrolet', 'model': 'Tracker', 'year': 2015, 'color': 'Pink', 'mileage': 4}
+{'id': 195, 'vin': '3D73M4CLXBG358340', 'make': 'Toyota', 'model': 'Prius', 'year': 2017, 'color': 'Pink', 'mileage': 2}
+{'id': 196, 'vin': 'WBABN33423P488239', 'make': 'Lincoln', 'model': 'Continental Mark VII', 'year': 2017, 'color': 'Khaki', 'mileage': 2}
+{'id': 197, 'vin': 'WVWAA7AJ0CW509430', 'make': 'Lexus', 'model': 'RX', 'year': 2016, 'color': 'Khaki', 'mileage': 2}
+{'id': 198, 'vin': 'SALVP1BGXEH578531', 'make': 'Ford', 'model': 'F150', 'year': 2015, 'color': 'Khaki', 'mileage': 4}
+{'id': 199, 'vin': '5N1AT2MK3FC103693', 'make': 'Volvo', 'model': 'S80', 'year': 2016, 'color': 'Fuscia', 'mileage': 4}
+{'id': 200, 'vin': 'JM1BL1L33C1269751', 'make': 'BMW', 'model': 'Z4', 'year': 2016, 'color': 'Maroon', 'mileage': 1}
+{'id': 201, 'vin': 'SALWG2WF1EA801026', 'make': 'Saab', 'model': '9-5', 'year': 2018, 'color': 'Violet', 'mileage': 4}
+{'id': 202, 'vin': '5N1AT2MKXEC586002', 'make': 'Lexus', 'model': 'GX', 'year': 2018, 'color': 'Violet', 'mileage': 4}
+{'id': 203, 'vin': '1C4SDJCT4DC586487', 'make': 'Land Rover', 'model': 'LR4', 'year': 2018, 'color': 'Crimson', 'mileage': 4}
+{'id': 204, 'vin': 'WBAVC53578F383846', 'make': 'Lincoln', 'model': 'Continental', 'year': 2015, 'color': 'Blue', 'mileage': 5}
+{'id': 205, 'vin': '19UUA9F23CA605531', 'make': 'Lincoln', 'model': 'Town Car', 'year': 2015, 'color': 'Violet', 'mileage': 4}
+{'id': 206, 'vin': '1D7RE2GK5BS449263', 'make': 'Lamborghini', 'model': 'Gallardo', 'year': 2017, 'color': 'Teal', 'mileage': 5}
+{'id': 207, 'vin': 'JH4CL95844C109748', 'make': 'Subaru', 'model': 'Forester', 'year': 2018, 'color': 'Violet', 'mileage': 4}
+{'id': 208, 'vin': 'WDDHF5KB4FB297497', 'make': 'Kia', 'model': 'Sedona', 'year': 2018, 'color': 'Indigo', 'mileage': 3}
+{'id': 209, 'vin': '2G4GV5GV8C9642020', 'make': 'Rolls-Royce', 'model': 'Phantom', 'year': 2016, 'color': 'Green', 'mileage': 5}
+{'id': 210, 'vin': 'KMHTC6AD8EU968576', 'make': 'Mercedes-Benz', 'model': '500SL', 'year': 2015, 'color': 'Fuscia', 'mileage': 1}
+{'id': 211, 'vin': 'JN8AF5MR0DT623295', 'make': 'BMW', 'model': '550', 'year': 2017, 'color': 'Fuscia', 'mileage': 4}
+{'id': 212, 'vin': '5N1CR2MN0EC203136', 'make': 'Honda', 'model': 'Passport', 'year': 2018, 'color': 'Crimson', 'mileage': 4}
+{'id': 213, 'vin': 'JN8AF5MV1FT350898', 'make': 'Dodge', 'model': 'Ram Van B250', 'year': 2018, 'color': 'Purple', 'mileage': 2}
+{'id': 214, 'vin': '1FTSS3EL1AD901036', 'make': 'Chevrolet', 'model': 'Corvette', 'year': 2017, 'color': 'Pink', 'mileage': 5}
+{'id': 215, 'vin': 'WAUDF98E28A629282', 'make': 'Nissan', 'model': 'NV1500', 'year': 2018, 'color': 'Green', 'mileage': 1}
+{'id': 216, 'vin': 'SCBLF44J57C226035', 'make': 'Jeep', 'model': 'Compass', 'year': 2016, 'color': 'Violet', 'mileage': 4}
+{'id': 217, 'vin': 'WBA5B1C54FG080980', 'make': 'Volvo', 'model': 'S40', 'year': 2017, 'color': 'Puce', 'mileage': 3}
+{'id': 218, 'vin': '2C3CDYAG1EH550939', 'make': 'Saab', 'model': '900', 'year': 2016, 'color': 'Purple', 'mileage': 2}
+{'id': 219, 'vin': '1J4NF1GB6AD400134', 'make': 'Dodge', 'model': 'Shadow', 'year': 2017, 'color': 'Indigo', 'mileage': 1}
+{'id': 220, 'vin': 'WBAWC73528E667312', 'make': 'Lotus', 'model': 'Esprit', 'year': 2016, 'color': 'Green', 'mileage': 4}
+{'id': 221, 'vin': '1FMEU5DE2AU491994', 'make': 'Lamborghini', 'model': 'Diablo', 'year': 2015, 'color': 'Red', 'mileage': 4}
+{'id': 222, 'vin': 'JN8AF5MR0DT004096', 'make': 'Toyota', 'model': 'Camry', 'year': 2016, 'color': 'Purple', 'mileage': 1}
+{'id': 223, 'vin': '1N6BF0KL2FN906223', 'make': 'Audi', 'model': 'S4', 'year': 2017, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 224, 'vin': 'SAJWA6FCXE8818986', 'make': 'Nissan', 'model': 'Altima', 'year': 2017, 'color': 'Yellow', 'mileage': 4}
+{'id': 225, 'vin': '1G6AB5S36F0116057', 'make': 'Volkswagen', 'model': 'Golf', 'year': 2017, 'color': 'Purple', 'mileage': 3}
+{'id': 226, 'vin': '4JGCB2FE2BA038523', 'make': 'Pontiac', 'model': 'Sunfire', 'year': 2017, 'color': 'Yellow', 'mileage': 4}
+{'id': 227, 'vin': '1G6DM577280837935', 'make': 'Dodge', 'model': 'Ram 1500 Club', 'year': 2018, 'color': 'Green', 'mileage': 1}
+{'id': 228, 'vin': '1G6DJ8E3XD0316496', 'make': 'Honda', 'model': 'Accord', 'year': 2017, 'color': 'Maroon', 'mileage': 5}
+{'id': 229, 'vin': '2T1BURHE5EC393198', 'make': 'Ford', 'model': 'Focus', 'year': 2017, 'color': 'Blue', 'mileage': 1}
+{'id': 230, 'vin': 'WAUHF98P36A415708', 'make': 'Toyota', 'model': 'Camry', 'year': 2017, 'color': 'Pink', 'mileage': 4}
+{'id': 231, 'vin': '1C6RD6NT3CS435967', 'make': 'GMC', 'model': 'Yukon XL 1500', 'year': 2015, 'color': 'Green', 'mileage': 1}
+{'id': 232, 'vin': 'WAULT64B14N235290', 'make': 'Lexus', 'model': 'RX', 'year': 2018, 'color': 'Blue', 'mileage': 2}
+{'id': 233, 'vin': '19XFB4F21DE541740', 'make': 'Isuzu', 'model': 'Trooper', 'year': 2015, 'color': 'Yellow', 'mileage': 2}
+{'id': 234, 'vin': 'SCBZB25E02C086366', 'make': 'Kia', 'model': 'Sedona', 'year': 2017, 'color': 'Pink', 'mileage': 2}
+{'id': 235, 'vin': 'SCBZB25E52C284554', 'make': 'Ford', 'model': 'Laser', 'year': 2015, 'color': 'Green', 'mileage': 1}
+{'id': 236, 'vin': '5UXFE83558L995188', 'make': 'Toyota', 'model': 'Sequoia', 'year': 2017, 'color': 'Green', 'mileage': 1}
+{'id': 237, 'vin': '1C3CCBBB8EN128516', 'make': 'Mitsubishi', 'model': 'Eclipse', 'year': 2015, 'color': 'Maroon', 'mileage': 3}
+{'id': 238, 'vin': '1D7RV1GT7BS897944', 'make': 'Hyundai', 'model': 'Genesis', 'year': 2016, 'color': 'Puce', 'mileage': 3}
+{'id': 239, 'vin': 'WVWBB7AJ2DW415133', 'make': 'Acura', 'model': 'MDX', 'year': 2015, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 240, 'vin': 'TRUTC28NX41069395', 'make': 'Ford', 'model': 'F-Series', 'year': 2016, 'color': 'Maroon', 'mileage': 4}
+{'id': 241, 'vin': 'YV4952CT6E1253848', 'make': 'Honda', 'model': 'del Sol', 'year': 2018, 'color': 'Turquoise', 'mileage': 4}
+{'id': 242, 'vin': '1G4HP52K334103805', 'make': 'Mitsubishi', 'model': 'Pajero', 'year': 2018, 'color': 'Crimson', 'mileage': 2}
+{'id': 243, 'vin': '1N4AB7AP9DN480069', 'make': 'Cadillac', 'model': 'Fleetwood', 'year': 2018, 'color': 'Mauv', 'mileage': 5}
+{'id': 244, 'vin': '2G4WS55J251697309', 'make': 'Toyota', 'model': 'Celica', 'year': 2018, 'color': 'Fuscia', 'mileage': 1}
+{'id': 245, 'vin': '5LMJJ3H51DE368661', 'make': 'Plymouth', 'model': 'Acclaim', 'year': 2018, 'color': 'Red', 'mileage': 2}
+{'id': 246, 'vin': '4T1BK3DB2CU073279', 'make': 'Nissan', 'model': 'NX', 'year': 2015, 'color': 'Green', 'mileage': 5}
+{'id': 247, 'vin': '1G4GF5G39DF026864', 'make': 'Chevrolet', 'model': 'Silverado 3500', 'year': 2018, 'color': 'Purple', 'mileage': 2}
+{'id': 248, 'vin': '1GYS4FEJ7CR037834', 'make': 'Mercedes-Benz', 'model': 'M-Class', 'year': 2016, 'color': 'Mauv', 'mileage': 1}
+{'id': 249, 'vin': 'WBAKG7C50DE140057', 'make': 'Suzuki', 'model': 'Sidekick', 'year': 2017, 'color': 'Fuscia', 'mileage': 2}
+{'id': 250, 'vin': '1G6DJ577290713609', 'make': 'Lotus', 'model': 'Esprit', 'year': 2015, 'color': 'Green', 'mileage': 5}
+{'id': 251, 'vin': 'KMHHT6KD7BU054755', 'make': 'Hyundai', 'model': 'Sonata', 'year': 2017, 'color': 'Puce', 'mileage': 4}
+{'id': 252, 'vin': '1G6DE8E57C0426894', 'make': 'Ford', 'model': 'E350', 'year': 2017, 'color': 'Purple', 'mileage': 3}
+{'id': 253, 'vin': '2T2BK1BA4AC259852', 'make': 'Cadillac', 'model': 'Escalade', 'year': 2015, 'color': 'Pink', 'mileage': 2}
+{'id': 254, 'vin': 'SAJWA4DC6EM170240', 'make': 'Chevrolet', 'model': 'G-Series 1500', 'year': 2017, 'color': 'Pink', 'mileage': 2}
+{'id': 255, 'vin': '1FTMF1EW1AK386093', 'make': 'Mitsubishi', 'model': 'Expo', 'year': 2015, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 256, 'vin': '1GYFK56219R353859', 'make': 'Nissan', 'model': '350Z', 'year': 2017, 'color': 'Purple', 'mileage': 3}
+{'id': 257, 'vin': '1G4HH5E95AU744456', 'make': 'Hummer', 'model': 'H2', 'year': 2016, 'color': 'Khaki', 'mileage': 1}
+{'id': 258, 'vin': '3VW1K7AJ8EM559036', 'make': 'Nissan', 'model': 'Sentra', 'year': 2017, 'color': 'Mauv', 'mileage': 4}
+{'id': 259, 'vin': 'WBAWV53578P647236', 'make': 'Mercedes-Benz', 'model': 'C-Class', 'year': 2017, 'color': 'Red', 'mileage': 5}
+{'id': 260, 'vin': 'KL4CJESBXDB360712', 'make': 'Porsche', 'model': 'Boxster', 'year': 2015, 'color': 'Purple', 'mileage': 5}
+{'id': 261, 'vin': '1GYUCHEFXAR991087', 'make': 'Land Rover', 'model': 'Discovery', 'year': 2017, 'color': 'Teal', 'mileage': 2}
+{'id': 262, 'vin': 'WA1LGBFE0FD509718', 'make': 'Dodge', 'model': 'Ram Van 1500', 'year': 2018, 'color': 'Purple', 'mileage': 2}
+{'id': 263, 'vin': '3C6JR6CT2DG783320', 'make': 'Mitsubishi', 'model': 'Galant', 'year': 2017, 'color': 'Pink', 'mileage': 3}
+{'id': 264, 'vin': 'KNADM4A33D6794286', 'make': 'Acura', 'model': 'TL', 'year': 2017, 'color': 'Pink', 'mileage': 4}
+{'id': 265, 'vin': '3C63D3NL9CG576019', 'make': 'Chrysler', 'model': '300', 'year': 2017, 'color': 'Khaki', 'mileage': 4}
+{'id': 266, 'vin': '5UXFB53556L560417', 'make': 'Land Rover', 'model': 'Freelander', 'year': 2018, 'color': 'Crimson', 'mileage': 4}
+{'id': 267, 'vin': '2B3CK8CT9AH736171', 'make': 'Lamborghini', 'model': 'Diablo', 'year': 2015, 'color': 'Puce', 'mileage': 1}
+{'id': 268, 'vin': '1C3CDZAB3DN568763', 'make': 'Oldsmobile', 'model': 'Silhouette', 'year': 2017, 'color': 'Turquoise', 'mileage': 2}
+{'id': 269, 'vin': 'WBA3V9C54F5577956', 'make': 'Cadillac', 'model': 'DeVille', 'year': 2017, 'color': 'Green', 'mileage': 2}
+{'id': 270, 'vin': '1G4GA5EC8AF453482', 'make': 'Mazda', 'model': 'B-Series Plus', 'year': 2016, 'color': 'Violet', 'mileage': 1}
+{'id': 271, 'vin': 'WAUDK78T88A768220', 'make': 'Mercedes-Benz', 'model': 'C-Class', 'year': 2018, 'color': 'Crimson', 'mileage': 1}
+{'id': 272, 'vin': 'SALVN2BG0FH214163', 'make': 'Toyota', 'model': 'Camry', 'year': 2017, 'color': 'Purple', 'mileage': 3}
+{'id': 273, 'vin': 'WAUFGBFB6AN585663', 'make': 'Dodge', 'model': 'Intrepid', 'year': 2015, 'color': 'Blue', 'mileage': 5}
+{'id': 274, 'vin': '1D4PU7GX9BW229794', 'make': 'Mitsubishi', 'model': 'RVR', 'year': 2018, 'color': 'Khaki', 'mileage': 4}
+{'id': 275, 'vin': 'WBADX7C59DE804056', 'make': 'Mazda', 'model': 'MX-6', 'year': 2017, 'color': 'Puce', 'mileage': 4}
+{'id': 276, 'vin': 'WBAKA4C51CD234923', 'make': 'Mercedes-Benz', 'model': 'E-Class', 'year': 2016, 'color': 'Green', 'mileage': 5}
+{'id': 277, 'vin': 'WBA3V9C53FP065206', 'make': 'Jeep', 'model': 'Liberty', 'year': 2018, 'color': 'Crimson', 'mileage': 4}
+{'id': 278, 'vin': '3N1CE2CP8FL076406', 'make': 'Lincoln', 'model': 'Town Car', 'year': 2016, 'color': 'Green', 'mileage': 5}
+{'id': 279, 'vin': '1G4GA5ER0CF910146', 'make': 'Dodge', 'model': 'Challenger', 'year': 2017, 'color': 'Violet', 'mileage': 1}
+{'id': 280, 'vin': 'JM1DE1HY1B0774814', 'make': 'Toyota', 'model': 'Camry', 'year': 2017, 'color': 'Violet', 'mileage': 4}
+{'id': 281, 'vin': '1N6AA0CJ2DN592559', 'make': 'Mazda', 'model': 'MPV', 'year': 2018, 'color': 'Indigo', 'mileage': 1}
+{'id': 282, 'vin': 'WBAKP9C5XFD791281', 'make': 'Volkswagen', 'model': 'Passat', 'year': 2018, 'color': 'Aquamarine', 'mileage': 1}
+{'id': 283, 'vin': '1G4PP5SK3E4280904', 'make': 'Suzuki', 'model': 'Grand Vitara', 'year': 2017, 'color': 'Violet', 'mileage': 4}
+{'id': 284, 'vin': 'WBAWC33509P780514', 'make': 'Dodge', 'model': 'Ram 1500', 'year': 2018, 'color': 'Purple', 'mileage': 5}
+{'id': 285, 'vin': 'WAUDV94F37N543858', 'make': 'Saturn', 'model': 'S-Series', 'year': 2015, 'color': 'Mauv', 'mileage': 1}
+{'id': 286, 'vin': 'WBAWC73519E165280', 'make': 'Chevrolet', 'model': 'S10 Blazer', 'year': 2017, 'color': 'Orange', 'mileage': 1}
+{'id': 287, 'vin': '4F2CY0C71BK091480', 'make': 'Subaru', 'model': 'Impreza', 'year': 2018, 'color': 'Fuscia', 'mileage': 2}
+{'id': 288, 'vin': '2FMGK5B81DB733485', 'make': 'Suzuki', 'model': 'Vitara', 'year': 2015, 'color': 'Teal', 'mileage': 1}
+{'id': 289, 'vin': '1G6AR5S35E0239004', 'make': 'Ford', 'model': 'Mustang', 'year': 2015, 'color': 'Orange', 'mileage': 4}
+{'id': 290, 'vin': 'JH4DC53802C053269', 'make': 'Lamborghini', 'model': 'Diablo', 'year': 2015, 'color': 'Puce', 'mileage': 5}
+{'id': 291, 'vin': 'JHMZE2H77ES572456', 'make': 'Kia', 'model': 'Sportage', 'year': 2017, 'color': 'Indigo', 'mileage': 1}
+{'id': 292, 'vin': '1D4RD5GG5BC853414', 'make': 'Mercedes-Benz', 'model': 'W201', 'year': 2016, 'color': 'Purple', 'mileage': 1}
+{'id': 293, 'vin': '2G4GT5GC8B9757316', 'make': 'Pontiac', 'model': 'Firebird', 'year': 2017, 'color': 'Khaki', 'mileage': 2}
+{'id': 294, 'vin': '2C3CA6CTXBH745425', 'make': 'Mercury', 'model': 'Mountaineer', 'year': 2016, 'color': 'Puce', 'mileage': 5}
+{'id': 295, 'vin': 'WBAFU9C5XBC473915', 'make': 'Hyundai', 'model': 'XG350', 'year': 2015, 'color': 'Crimson', 'mileage': 5}
+{'id': 296, 'vin': '2C3CK6CT6AH359337', 'make': 'Audi', 'model': 'S8', 'year': 2018, 'color': 'Orange', 'mileage': 1}
+{'id': 297, 'vin': 'WBA3V9C55FP989906', 'make': 'Mercury', 'model': 'Grand Marquis', 'year': 2016, 'color': 'Aquamarine', 'mileage': 2}
+{'id': 298, 'vin': 'WBANV9C58AC995093', 'make': 'Chevrolet', 'model': 'Suburban', 'year': 2015, 'color': 'Aquamarine', 'mileage': 2}
+{'id': 299, 'vin': 'WBA1F5C57FV116148', 'make': 'Dodge', 'model': 'D150', 'year': 2016, 'color': 'Orange', 'mileage': 1}
+{'id': 300, 'vin': '1G4HP54K414950522', 'make': 'Ford', 'model': 'Escort', 'year': 2017, 'color': 'Blue', 'mileage': 1}
+{'id': 301, 'vin': '3D7JB1EP2AG884407', 'make': 'Ferrari', 'model': '458 Italia', 'year': 2017, 'color': 'Puce', 'mileage': 5}
+{'id': 302, 'vin': '137ZA84391E325891', 'make': 'Chrysler', 'model': 'Imperial', 'year': 2018, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 303, 'vin': '1GTN1TEH3EZ332939', 'make': 'Ford', 'model': 'Expedition', 'year': 2015, 'color': 'Purple', 'mileage': 2}
+{'id': 304, 'vin': '1GD21XEG3FZ755566', 'make': 'GMC', 'model': 'Envoy', 'year': 2016, 'color': 'Yellow', 'mileage': 4}
+{'id': 305, 'vin': 'JH4CW2H51BC639737', 'make': 'GMC', 'model': 'Yukon', 'year': 2016, 'color': 'Red', 'mileage': 4}
+{'id': 306, 'vin': 'WAUBF98EX7A896126', 'make': 'Mitsubishi', 'model': 'Excel', 'year': 2018, 'color': 'Red', 'mileage': 1}
+{'id': 307, 'vin': '1FMJK1JT7FE485402', 'make': 'Toyota', 'model': 'Supra', 'year': 2018, 'color': 'Pink', 'mileage': 1}
+{'id': 308, 'vin': '2G4GV5EV7B9926157', 'make': 'Hummer', 'model': 'H2', 'year': 2018, 'color': 'Yellow', 'mileage': 5}
+{'id': 309, 'vin': 'TRUB3AFK7C1554848', 'make': 'Mitsubishi', 'model': 'Mighty Max', 'year': 2015, 'color': 'Mauv', 'mileage': 3}
+{'id': 310, 'vin': '2G4GT5GRXD9686367', 'make': 'Infiniti', 'model': 'M', 'year': 2018, 'color': 'Orange', 'mileage': 2}
+{'id': 311, 'vin': 'WA1WMBFE5DD368602', 'make': 'Kia', 'model': 'Sportage', 'year': 2017, 'color': 'Yellow', 'mileage': 5}
+{'id': 312, 'vin': '1G6DV5EP9B0738875', 'make': 'Ford', 'model': 'Excursion', 'year': 2017, 'color': 'Yellow', 'mileage': 4}
+{'id': 313, 'vin': '1N6AA0CA8AN743707', 'make': 'GMC', 'model': 'Yukon XL 2500', 'year': 2018, 'color': 'Fuscia', 'mileage': 5}
+{'id': 314, 'vin': 'WAUJC58E52A559627', 'make': 'Mitsubishi', 'model': 'Eclipse', 'year': 2015, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 315, 'vin': 'JHMZE2H7XES726870', 'make': 'Lexus', 'model': 'RX Hybrid', 'year': 2018, 'color': 'Yellow', 'mileage': 3}
+{'id': 316, 'vin': 'WDDGF4HB3CR918874', 'make': 'Pontiac', 'model': 'G3', 'year': 2016, 'color': 'Teal', 'mileage': 5}
+{'id': 317, 'vin': 'WAUML44D92N494777', 'make': 'Lamborghini', 'model': 'Countach', 'year': 2018, 'color': 'Red', 'mileage': 1}
+{'id': 318, 'vin': 'WDDGF5EBXAA019967', 'make': 'Kia', 'model': 'Optima', 'year': 2018, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 319, 'vin': 'WAULT68E52A006247', 'make': 'Porsche', 'model': '968', 'year': 2017, 'color': 'Mauv', 'mileage': 3}
+{'id': 320, 'vin': '2C3CDZBT0FH874712', 'make': 'Chevrolet', 'model': 'Venture', 'year': 2016, 'color': 'Crimson', 'mileage': 4}
+{'id': 321, 'vin': 'WAUDFAFL2DN226019', 'make': 'Dodge', 'model': 'Ram 3500', 'year': 2017, 'color': 'Pink', 'mileage': 3}
+{'id': 322, 'vin': 'WAULK78K39N094233', 'make': 'Pontiac', 'model': 'G5', 'year': 2016, 'color': 'Aquamarine', 'mileage': 2}
+{'id': 323, 'vin': '1G4GH5E38CF212794', 'make': 'Toyota', 'model': 'Xtra', 'year': 2018, 'color': 'Blue', 'mileage': 1}
+{'id': 324, 'vin': '1G4HD57218U838064', 'make': 'Honda', 'model': 'Accord', 'year': 2016, 'color': 'Crimson', 'mileage': 2}
+{'id': 325, 'vin': 'WAUDT94F35N149473', 'make': 'Porsche', 'model': '928', 'year': 2018, 'color': 'Blue', 'mileage': 2}
+{'id': 326, 'vin': 'WDDEJ7EB2BA763033', 'make': 'Mazda', 'model': 'MX-5', 'year': 2017, 'color': 'Green', 'mileage': 4}
+{'id': 327, 'vin': '3FA6P0SU5DR167245', 'make': 'Ford', 'model': 'Explorer Sport Trac', 'year': 2016, 'color': 'Yellow', 'mileage': 4}
+{'id': 328, 'vin': 'WBA5M4C53FD008083', 'make': 'Dodge', 'model': 'Ram Van 2500', 'year': 2016, 'color': 'Violet', 'mileage': 2}
+{'id': 329, 'vin': 'WAUHFBFL6AN688652', 'make': 'Buick', 'model': 'Regal', 'year': 2016, 'color': 'Orange', 'mileage': 1}
+{'id': 330, 'vin': 'WBA3C1C59FP614995', 'make': 'Dodge', 'model': 'Ram 3500', 'year': 2015, 'color': 'Fuscia', 'mileage': 2}
+{'id': 331, 'vin': '2G4GP5EX5E9481241', 'make': 'Mazda', 'model': 'CX-7', 'year': 2015, 'color': 'Teal', 'mileage': 3}
+{'id': 332, 'vin': 'WA1WKBFPXCA773667', 'make': 'Ford', 'model': 'Freestar', 'year': 2017, 'color': 'Red', 'mileage': 1}
+{'id': 333, 'vin': '19XFB2E53CE071127', 'make': 'Land Rover', 'model': 'LR2', 'year': 2015, 'color': 'Khaki', 'mileage': 1}
+{'id': 334, 'vin': '1G6DS5EV2A0956341', 'make': 'Pontiac', 'model': 'Safari', 'year': 2018, 'color': 'Orange', 'mileage': 5}
+{'id': 335, 'vin': 'WAUVC58E65A648581', 'make': 'Oldsmobile', 'model': 'LSS', 'year': 2015, 'color': 'Pink', 'mileage': 1}
+{'id': 336, 'vin': '4T1BD1FK1FU974174', 'make': 'Chevrolet', 'model': 'Cobalt SS', 'year': 2016, 'color': 'Goldenrod', 'mileage': 3}
+{'id': 337, 'vin': 'YV1672MK2D2114728', 'make': 'Saab', 'model': '9-4X', 'year': 2015, 'color': 'Violet', 'mileage': 2}
+{'id': 338, 'vin': 'WA1WGBFP1EA268072', 'make': 'Toyota', 'model': 'MR2', 'year': 2015, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 339, 'vin': 'SCFAB02A36G344718', 'make': 'GMC', 'model': 'Envoy XUV', 'year': 2015, 'color': 'Violet', 'mileage': 2}
+{'id': 340, 'vin': '1FMCU4K36AK117953', 'make': 'Ford', 'model': 'Courier', 'year': 2015, 'color': 'Crimson', 'mileage': 1}
+{'id': 341, 'vin': 'WBAVC53527A837075', 'make': 'Mercedes-Benz', 'model': 'CL-Class', 'year': 2018, 'color': 'Aquamarine', 'mileage': 4}
+{'id': 342, 'vin': 'WUARL48H47K203653', 'make': 'Hyundai', 'model': 'Accent', 'year': 2017, 'color': 'Maroon', 'mileage': 5}
+{'id': 343, 'vin': '3GYFK12299G169946', 'make': 'Audi', 'model': '4000s Quattro', 'year': 2018, 'color': 'Maroon', 'mileage': 4}
+{'id': 344, 'vin': '3GYEK62N74G663637', 'make': 'Mercury', 'model': 'Cougar', 'year': 2017, 'color': 'Purple', 'mileage': 1}
+{'id': 345, 'vin': 'SCFAD01E29G581087', 'make': 'Infiniti', 'model': 'G', 'year': 2015, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 346, 'vin': 'WBALM7C53DE434694', 'make': 'Oldsmobile', 'model': 'Cutlass Supreme', 'year': 2018, 'color': 'Yellow', 'mileage': 3}
+{'id': 347, 'vin': '1J4PN2GK1AW018177', 'make': 'Ford', 'model': 'Escape', 'year': 2018, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 348, 'vin': '2B3CK4CV5AH440557', 'make': 'Nissan', 'model': 'Murano', 'year': 2018, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 349, 'vin': '3D4PG3FGXBT106156', 'make': 'Volkswagen', 'model': 'Eos', 'year': 2017, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 350, 'vin': 'JM1NC2JF6E0953153', 'make': 'Acura', 'model': 'MDX', 'year': 2017, 'color': 'Teal', 'mileage': 3}
+{'id': 351, 'vin': 'KMHGH4JH5CU302296', 'make': 'Ford', 'model': 'Aerostar', 'year': 2017, 'color': 'Purple', 'mileage': 3}
+{'id': 352, 'vin': 'WDDPK4HA8EF435923', 'make': 'Mercury', 'model': 'Grand Marquis', 'year': 2015, 'color': 'Indigo', 'mileage': 2}
+{'id': 353, 'vin': '2HNYD18953H833464', 'make': 'Lexus', 'model': 'ES', 'year': 2015, 'color': 'Maroon', 'mileage': 4}
+{'id': 354, 'vin': '1VWAH7A37DC623986', 'make': 'Acura', 'model': 'RSX', 'year': 2017, 'color': 'Blue', 'mileage': 1}
+{'id': 355, 'vin': 'YV4852CT3A1923703', 'make': 'Hyundai', 'model': 'Santa Fe', 'year': 2016, 'color': 'Crimson', 'mileage': 2}
+{'id': 356, 'vin': 'WBAWC33527P055154', 'make': 'Volkswagen', 'model': 'GTI', 'year': 2016, 'color': 'Blue', 'mileage': 5}
+{'id': 357, 'vin': '1FMJK1FT7FE600007', 'make': 'Mitsubishi', 'model': 'Eclipse', 'year': 2018, 'color': 'Fuscia', 'mileage': 3}
+{'id': 358, 'vin': '2G61M5S3XE9226088', 'make': 'Audi', 'model': 'S6', 'year': 2015, 'color': 'Fuscia', 'mileage': 5}
+{'id': 359, 'vin': 'WBAWL13517P169196', 'make': 'Lincoln', 'model': 'LS', 'year': 2016, 'color': 'Yellow', 'mileage': 4}
+{'id': 360, 'vin': 'SCFEBBCF7CG967858', 'make': 'Ford', 'model': 'F250', 'year': 2018, 'color': 'Aquamarine', 'mileage': 1}
+{'id': 361, 'vin': 'WDBSK7BA5CF296361', 'make': 'Hummer', 'model': 'H3', 'year': 2016, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 362, 'vin': 'WA1DGAFP8EA401265', 'make': 'GMC', 'model': 'Canyon', 'year': 2018, 'color': 'Khaki', 'mileage': 1}
+{'id': 363, 'vin': '1VWAH7A33DC564337', 'make': 'Lincoln', 'model': 'Town Car', 'year': 2015, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 364, 'vin': 'SAJWA1CB0CL574189', 'make': 'Isuzu', 'model': 'Ascender', 'year': 2016, 'color': 'Teal', 'mileage': 2}
+{'id': 365, 'vin': 'WBSWL9C58AP527511', 'make': 'Cadillac', 'model': 'CTS', 'year': 2016, 'color': 'Indigo', 'mileage': 2}
+{'id': 366, 'vin': '3VW4A7AT7DM705300', 'make': 'Ford', 'model': 'Taurus', 'year': 2017, 'color': 'Violet', 'mileage': 3}
+{'id': 367, 'vin': 'WA1WKAFP0CA784915', 'make': 'Subaru', 'model': 'B9 Tribeca', 'year': 2017, 'color': 'Fuscia', 'mileage': 4}
+{'id': 368, 'vin': '3C4PDDBG8DT548986', 'make': 'Acura', 'model': 'TL', 'year': 2015, 'color': 'Violet', 'mileage': 5}
+{'id': 369, 'vin': '5TDBW5G12DS019316', 'make': 'Toyota', 'model': '4Runner', 'year': 2016, 'color': 'Crimson', 'mileage': 5}
+{'id': 370, 'vin': '3VWKZ7AJ7BM981892', 'make': 'Mercedes-Benz', 'model': 'C-Class', 'year': 2016, 'color': 'Pink', 'mileage': 5}
+{'id': 371, 'vin': '4T1BD1EB5FU497606', 'make': 'Toyota', 'model': 'Venza', 'year': 2017, 'color': 'Green', 'mileage': 1}
+{'id': 372, 'vin': '1FADP5AU9EL224486', 'make': 'Cadillac', 'model': 'Seville', 'year': 2015, 'color': 'Khaki', 'mileage': 3}
+{'id': 373, 'vin': '1G4GB5EG9AF055651', 'make': 'Pontiac', 'model': 'Firebird Formula', 'year': 2016, 'color': 'Crimson', 'mileage': 1}
+{'id': 374, 'vin': 'WAUKH98E67A628488', 'make': 'Isuzu', 'model': 'Trooper', 'year': 2015, 'color': 'Turquoise', 'mileage': 4}
+{'id': 375, 'vin': 'WAUVT68E82A280115', 'make': 'Subaru', 'model': 'Legacy', 'year': 2017, 'color': 'Pink', 'mileage': 5}
+{'id': 376, 'vin': 'WD3PE7DC6F5190227', 'make': 'Mitsubishi', 'model': 'Mighty Max', 'year': 2017, 'color': 'Green', 'mileage': 2}
+{'id': 377, 'vin': '2G4WD582291889673', 'make': 'BMW', 'model': '7 Series', 'year': 2016, 'color': 'Turquoise', 'mileage': 3}
+{'id': 378, 'vin': 'WBAPT73519C663799', 'make': 'Lexus', 'model': 'SC', 'year': 2018, 'color': 'Teal', 'mileage': 3}
+{'id': 379, 'vin': '1N4AB7AP8DN523249', 'make': 'Lexus', 'model': 'LS', 'year': 2017, 'color': 'Blue', 'mileage': 3}
+{'id': 380, 'vin': '3VWF17ATXFM000454', 'make': 'Nissan', 'model': '300ZX', 'year': 2018, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 381, 'vin': '2T2BK1BAXDC397609', 'make': 'Volkswagen', 'model': 'Golf', 'year': 2018, 'color': 'Blue', 'mileage': 2}
+{'id': 382, 'vin': 'WAUEFAFL2CA397069', 'make': 'Acura', 'model': 'RL', 'year': 2016, 'color': 'Red', 'mileage': 1}
+{'id': 383, 'vin': 'ZFBCFADH6FZ651190', 'make': 'Mitsubishi', 'model': 'Outlander', 'year': 2017, 'color': 'Indigo', 'mileage': 2}
+{'id': 384, 'vin': 'WDDEJ7GB8DA035846', 'make': 'Volkswagen', 'model': 'New Beetle', 'year': 2018, 'color': 'Khaki', 'mileage': 3}
+{'id': 385, 'vin': 'JA32U2FU0EU036174', 'make': 'Fillmore', 'model': 'Fillmore', 'year': 2016, 'color': 'Purple', 'mileage': 4}
+{'id': 386, 'vin': 'WA1AGAFE6CD482974', 'make': 'Kia', 'model': 'Rio', 'year': 2017, 'color': 'Puce', 'mileage': 3}
+{'id': 387, 'vin': 'WAUBF98E78A541819', 'make': 'Audi', 'model': 'Cabriolet', 'year': 2015, 'color': 'Mauv', 'mileage': 2}
+{'id': 388, 'vin': 'WBALZ5C50CC777074', 'make': 'Chevrolet', 'model': 'Express 1500', 'year': 2015, 'color': 'Fuscia', 'mileage': 3}
+{'id': 389, 'vin': 'WDDDJ7CB5BA148460', 'make': 'Kia', 'model': 'Sportage', 'year': 2015, 'color': 'Turquoise', 'mileage': 4}
+{'id': 390, 'vin': '5N1AN0NU9BC130602', 'make': 'Honda', 'model': 'Prelude', 'year': 2017, 'color': 'Pink', 'mileage': 2}
+{'id': 391, 'vin': 'KMHTC6AD7CU605277', 'make': 'Saab', 'model': '9-3', 'year': 2017, 'color': 'Teal', 'mileage': 5}
+{'id': 392, 'vin': '3C6TD4CTXCG433332', 'make': 'GMC', 'model': 'Envoy XUV', 'year': 2016, 'color': 'Orange', 'mileage': 3}
+{'id': 393, 'vin': 'WAU3GBFC6DN144888', 'make': 'Dodge', 'model': 'Ram 3500', 'year': 2016, 'color': 'Red', 'mileage': 5}
+{'id': 394, 'vin': 'JM1DE1KYXE0392567', 'make': 'Dodge', 'model': 'Challenger', 'year': 2015, 'color': 'Violet', 'mileage': 1}
+{'id': 395, 'vin': '2G4WD582871786898', 'make': 'Honda', 'model': 'Accord', 'year': 2016, 'color': 'Goldenrod', 'mileage': 3}
+{'id': 396, 'vin': 'JH4DC53833C006531', 'make': 'Plymouth', 'model': 'Roadrunner', 'year': 2017, 'color': 'Crimson', 'mileage': 2}
+{'id': 397, 'vin': '1G4GJ5E35CF722928', 'make': 'Chevrolet', 'model': 'Silverado 3500', 'year': 2018, 'color': 'Khaki', 'mileage': 4}
+{'id': 398, 'vin': '3C6TD4CTXCG467772', 'make': 'Mercury', 'model': 'Monterey', 'year': 2018, 'color': 'Violet', 'mileage': 2}
+{'id': 399, 'vin': 'WUARL48H45K571330', 'make': 'Jaguar', 'model': 'S-Type', 'year': 2017, 'color': 'Orange', 'mileage': 4}
+{'id': 400, 'vin': '1G6DP577570152012', 'make': 'Kia', 'model': 'Carens', 'year': 2016, 'color': 'Turquoise', 'mileage': 4}
+{'id': 401, 'vin': '1G6AH5S32E0432889', 'make': 'BMW', 'model': 'X6', 'year': 2015, 'color': 'Fuscia', 'mileage': 5}
+{'id': 402, 'vin': '3HGGK5G53FM272783', 'make': 'Hyundai', 'model': 'Genesis', 'year': 2017, 'color': 'Purple', 'mileage': 4}
+{'id': 403, 'vin': 'JTHBL1EF5E5282096', 'make': 'Ford', 'model': 'F350', 'year': 2015, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 404, 'vin': 'WBADT53482C849036', 'make': 'Dodge', 'model': 'Nitro', 'year': 2015, 'color': 'Indigo', 'mileage': 5}
+{'id': 405, 'vin': 'WAU3GAFD5FN194896', 'make': 'Dodge', 'model': 'Ramcharger', 'year': 2018, 'color': 'Crimson', 'mileage': 3}
+{'id': 406, 'vin': 'WAUEG94F66N012523', 'make': 'Buick', 'model': 'LaCrosse', 'year': 2017, 'color': 'Turquoise', 'mileage': 1}
+{'id': 407, 'vin': 'WBAHL83546D228467', 'make': 'Toyota', 'model': 'Land Cruiser', 'year': 2017, 'color': 'Red', 'mileage': 4}
+{'id': 408, 'vin': '1G6AB5SX8E0011165', 'make': 'Chevrolet', 'model': 'Express 3500', 'year': 2015, 'color': 'Purple', 'mileage': 2}
+{'id': 409, 'vin': '5UXFA13536L301811', 'make': 'Volkswagen', 'model': 'rio', 'year': 2017, 'color': 'Fuscia', 'mileage': 3}
+{'id': 410, 'vin': '1G4HP52K334993156', 'make': 'Isuzu', 'model': 'Rodeo', 'year': 2016, 'color': 'Blue', 'mileage': 3}
+{'id': 411, 'vin': 'WBASP2C53BC184338', 'make': 'Pontiac', 'model': 'Grand Prix', 'year': 2016, 'color': 'Indigo', 'mileage': 2}
+{'id': 412, 'vin': '5UXZW0C50C0412340', 'make': 'Ford', 'model': 'E-Series', 'year': 2016, 'color': 'Orange', 'mileage': 1}
+{'id': 413, 'vin': 'SCBFU7ZA9EC465453', 'make': 'Honda', 'model': 'S2000', 'year': 2015, 'color': 'Aquamarine', 'mileage': 3}
+{'id': 414, 'vin': '3VW467AT0CM747260', 'make': 'BMW', 'model': 'M3', 'year': 2018, 'color': 'Fuscia', 'mileage': 1}
+{'id': 415, 'vin': '5FNYF3H2XDB549026', 'make': 'Toyota', 'model': 'T100 Xtra', 'year': 2017, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 416, 'vin': '3VW517AT6EM514716', 'make': 'Toyota', 'model': 'Land Cruiser', 'year': 2015, 'color': 'Indigo', 'mileage': 3}
+{'id': 417, 'vin': 'KNAFT4A21A5288329', 'make': 'Lincoln', 'model': 'Navigator', 'year': 2018, 'color': 'Fuscia', 'mileage': 3}
+{'id': 418, 'vin': 'WAU2GAFC8FN985247', 'make': 'Nissan', 'model': 'GT-R', 'year': 2018, 'color': 'Mauv', 'mileage': 2}
+{'id': 419, 'vin': '3GYFK52279G206645', 'make': 'Jeep', 'model': 'Comanche', 'year': 2018, 'color': 'Yellow', 'mileage': 2}
+{'id': 420, 'vin': 'JN1AZ4EH4CM861570', 'make': 'Mitsubishi', 'model': 'RVR', 'year': 2016, 'color': 'Indigo', 'mileage': 2}
+{'id': 421, 'vin': '4T1BF3EK0AU098701', 'make': 'Acura', 'model': 'RL', 'year': 2017, 'color': 'Yellow', 'mileage': 3}
+{'id': 422, 'vin': '2FMDK3KC5AB577524', 'make': 'Cadillac', 'model': 'Escalade', 'year': 2016, 'color': 'Puce', 'mileage': 2}
+{'id': 423, 'vin': '1GYS4GEF4DR647659', 'make': 'Volvo', 'model': 'XC70', 'year': 2015, 'color': 'Fuscia', 'mileage': 5}
+{'id': 424, 'vin': 'WVGAV7AXXAW693194', 'make': 'Honda', 'model': 'Accord', 'year': 2015, 'color': 'Violet', 'mileage': 5}
+{'id': 425, 'vin': 'WAULL44E75N575253', 'make': 'Chrysler', 'model': 'Sebring', 'year': 2016, 'color': 'Orange', 'mileage': 5}
+{'id': 426, 'vin': 'WAU3VAFR4AA055473', 'make': 'Lexus', 'model': 'GS', 'year': 2017, 'color': 'Puce', 'mileage': 2}
+{'id': 427, 'vin': '3TMJU4GNXDM768900', 'make': 'Pontiac', 'model': 'Grand Am', 'year': 2018, 'color': 'Puce', 'mileage': 1}
+{'id': 428, 'vin': '1G6AD5S35D0132581', 'make': 'Pontiac', 'model': 'Bonneville', 'year': 2016, 'color': 'Turquoise', 'mileage': 5}
+{'id': 429, 'vin': '4F2CY0C72AK959498', 'make': 'Nissan', 'model': 'Sentra', 'year': 2017, 'color': 'Violet', 'mileage': 4}
+{'id': 430, 'vin': '5N1AR2MM2DC193559', 'make': 'Dodge', 'model': 'Ram 3500', 'year': 2018, 'color': 'Aquamarine', 'mileage': 2}
+{'id': 431, 'vin': 'WBAWB73599P523135', 'make': 'MINI', 'model': 'Cooper Clubman', 'year': 2016, 'color': 'Maroon', 'mileage': 4}
+{'id': 432, 'vin': 'SCBFC7ZA1DC383881', 'make': 'Mazda', 'model': 'B-Series', 'year': 2016, 'color': 'Red', 'mileage': 4}
+{'id': 433, 'vin': 'JN1CV6FE2BM108705', 'make': 'Alfa Romeo', 'model': '164', 'year': 2017, 'color': 'Khaki', 'mileage': 2}
+{'id': 434, 'vin': 'JM3TB2BA9F0898736', 'make': 'Lexus', 'model': 'IS', 'year': 2016, 'color': 'Pink', 'mileage': 3}
+{'id': 435, 'vin': 'YV1672MK5A2631582', 'make': 'Mercury', 'model': 'Grand Marquis', 'year': 2017, 'color': 'Mauv', 'mileage': 4}
+{'id': 436, 'vin': '1G6AC5SX4E0439120', 'make': 'Volvo', 'model': '740', 'year': 2017, 'color': 'Fuscia', 'mileage': 2}
+{'id': 437, 'vin': '5N1AR1NB3AC311217', 'make': 'Audi', 'model': 'S6', 'year': 2015, 'color': 'Fuscia', 'mileage': 5}
+{'id': 438, 'vin': '1G4GD5ED9BF645687', 'make': 'Ford', 'model': 'E-Series', 'year': 2017, 'color': 'Maroon', 'mileage': 1}
+{'id': 439, 'vin': '4JGBF2FB8AA920929', 'make': 'Honda', 'model': 'S2000', 'year': 2015, 'color': 'Puce', 'mileage': 5}
+{'id': 440, 'vin': 'WA1EY94L58D779871', 'make': 'Infiniti', 'model': 'J', 'year': 2015, 'color': 'Indigo', 'mileage': 2}
+{'id': 441, 'vin': 'JN1AZ4EH2FM073021', 'make': 'Plymouth', 'model': 'Voyager', 'year': 2016, 'color': 'Orange', 'mileage': 4}
+{'id': 442, 'vin': 'WAUXG94F49N790221', 'make': 'Pontiac', 'model': 'Daewoo Kalos', 'year': 2018, 'color': 'Crimson', 'mileage': 3}
+{'id': 443, 'vin': '3N1AB6AP0CL393294', 'make': 'GMC', 'model': 'Sierra', 'year': 2015, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 444, 'vin': 'JN1AZ4EH2EM052202', 'make': 'Cadillac', 'model': 'DeVille', 'year': 2016, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 445, 'vin': 'JH4DC54823S643544', 'make': 'Mazda', 'model': 'CX-7', 'year': 2016, 'color': 'Crimson', 'mileage': 1}
+{'id': 446, 'vin': '1D4PT5GK0AW280000', 'make': 'Toyota', 'model': 'Tacoma', 'year': 2018, 'color': 'Green', 'mileage': 2}
+{'id': 447, 'vin': 'WUADUAFG9BN557966', 'make': 'Volkswagen', 'model': 'Cabriolet', 'year': 2016, 'color': 'Mauv', 'mileage': 1}
+{'id': 448, 'vin': 'WAUHFAFL6BA274158', 'make': 'Chevrolet', 'model': 'Avalanche', 'year': 2015, 'color': 'Aquamarine', 'mileage': 1}
+{'id': 449, 'vin': 'JH4CU25689C422621', 'make': 'Toyota', 'model': 'Avalon', 'year': 2017, 'color': 'Crimson', 'mileage': 1}
+{'id': 450, 'vin': '19UUA9F79EA607315', 'make': 'Mitsubishi', 'model': 'L300', 'year': 2015, 'color': 'Pink', 'mileage': 5}
+{'id': 451, 'vin': '3C3CFFJH0ET786738', 'make': 'Acura', 'model': 'RL', 'year': 2018, 'color': 'Teal', 'mileage': 3}
+{'id': 452, 'vin': 'WAU4FAFR5CA621807', 'make': 'Rolls-Royce', 'model': 'Phantom', 'year': 2015, 'color': 'Blue', 'mileage': 2}
+{'id': 453, 'vin': '1G6AA5RA6E0824539', 'make': 'Land Rover', 'model': 'Freelander', 'year': 2016, 'color': 'Red', 'mileage': 1}
+{'id': 454, 'vin': 'JTDKDTB37D1540967', 'make': 'Mercedes-Benz', 'model': 'R-Class', 'year': 2018, 'color': 'Indigo', 'mileage': 5}
+{'id': 455, 'vin': 'WAUBFBFL9AN852093', 'make': 'Chevrolet', 'model': 'Sportvan G30', 'year': 2015, 'color': 'Indigo', 'mileage': 4}
+{'id': 456, 'vin': 'WUAW2AFC7FN807349', 'make': 'Aston Martin', 'model': 'DB9', 'year': 2015, 'color': 'Puce', 'mileage': 3}
+{'id': 457, 'vin': '1GYFK53299R515709', 'make': 'Infiniti', 'model': 'FX', 'year': 2016, 'color': 'Pink', 'mileage': 5}
+{'id': 458, 'vin': 'WA1YD54B15N142734', 'make': 'Pontiac', 'model': 'Firebird Formula', 'year': 2016, 'color': 'Blue', 'mileage': 1}
+{'id': 459, 'vin': 'JH4CL96974C776398', 'make': 'Toyota', 'model': 'Tacoma', 'year': 2018, 'color': 'Green', 'mileage': 5}
+{'id': 460, 'vin': '5N1AR2MM2FC717442', 'make': 'Mercedes-Benz', 'model': 'G55 AMG', 'year': 2017, 'color': 'Indigo', 'mileage': 4}
+{'id': 461, 'vin': '4JGBF2FE2CA619943', 'make': 'BMW', 'model': '745', 'year': 2015, 'color': 'Purple', 'mileage': 2}
+{'id': 462, 'vin': '3D73M4CL4AG327809', 'make': 'Land Rover', 'model': 'Range Rover', 'year': 2017, 'color': 'Teal', 'mileage': 5}
+{'id': 463, 'vin': '3C4PDDEG2CT144110', 'make': 'Chrysler', 'model': 'Sebring', 'year': 2015, 'color': 'Crimson', 'mileage': 2}
+{'id': 464, 'vin': 'WAUMK98K59A293226', 'make': 'Audi', 'model': 'A4', 'year': 2016, 'color': 'Indigo', 'mileage': 3}
+{'id': 465, 'vin': 'WBANF73586C180773', 'make': 'Ford', 'model': 'Escort', 'year': 2017, 'color': 'Maroon', 'mileage': 1}
+{'id': 466, 'vin': '5GAKVBKD5FJ397408', 'make': 'Suzuki', 'model': 'Cultus', 'year': 2016, 'color': 'Purple', 'mileage': 4}
+{'id': 467, 'vin': '4T1BF3EK9BU416008', 'make': 'Porsche', 'model': '968', 'year': 2016, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 468, 'vin': 'WA1WMBFE9FD969790', 'make': 'Pontiac', 'model': 'Grand Prix', 'year': 2017, 'color': 'Purple', 'mileage': 4}
+{'id': 469, 'vin': 'WBADT33432G802302', 'make': 'Mazda', 'model': 'Mazda3', 'year': 2017, 'color': 'Maroon', 'mileage': 3}
+{'id': 470, 'vin': 'WAUGL68E25A191881', 'make': 'GMC', 'model': 'Jimmy', 'year': 2016, 'color': 'Teal', 'mileage': 3}
+{'id': 471, 'vin': 'WDDHF5KB6EA513757', 'make': 'Ford', 'model': 'Econoline E350', 'year': 2016, 'color': 'Mauv', 'mileage': 1}
+{'id': 472, 'vin': 'WP0AA2A9XBS887169', 'make': 'Ford', 'model': 'Mustang', 'year': 2017, 'color': 'Violet', 'mileage': 4}
+{'id': 473, 'vin': '1FTSX2B57AE449623', 'make': 'Isuzu', 'model': 'Trooper', 'year': 2018, 'color': 'Red', 'mileage': 1}
+{'id': 474, 'vin': '1FTEW1CM2CK742902', 'make': 'GMC', 'model': 'Suburban 1500', 'year': 2016, 'color': 'Mauv', 'mileage': 2}
+{'id': 475, 'vin': 'SCBDR3ZA4BC593323', 'make': 'Mercedes-Benz', 'model': 'SL-Class', 'year': 2016, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 476, 'vin': 'WAU4FAFR9AA425530', 'make': 'Chrysler', 'model': 'Voyager', 'year': 2016, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 477, 'vin': 'JTHBL1EF3A5333704', 'make': 'Mercedes-Benz', 'model': 'CL65 AMG', 'year': 2018, 'color': 'Blue', 'mileage': 4}
+{'id': 478, 'vin': 'WDDUG7GB8FA776107', 'make': 'Toyota', 'model': 'MR2', 'year': 2015, 'color': 'Goldenrod', 'mileage': 3}
+{'id': 479, 'vin': 'WAUWMAFC4FN061933', 'make': 'Scion', 'model': 'tC', 'year': 2015, 'color': 'Puce', 'mileage': 2}
+{'id': 480, 'vin': 'WBANF73566C012498', 'make': 'Dodge', 'model': 'D150', 'year': 2017, 'color': 'Aquamarine', 'mileage': 3}
+{'id': 481, 'vin': '5FRYD3H41FB534570', 'make': 'Toyota', 'model': 'Prius v', 'year': 2016, 'color': 'Puce', 'mileage': 5}
+{'id': 482, 'vin': 'WBA3A5C58DF668224', 'make': 'Mercedes-Benz', 'model': '300SL', 'year': 2018, 'color': 'Khaki', 'mileage': 3}
+{'id': 483, 'vin': '1GYS3EEJ4DR034789', 'make': 'Buick', 'model': 'Verano', 'year': 2015, 'color': 'Maroon', 'mileage': 2}
+{'id': 484, 'vin': 'JM1NC2NF2E0095674', 'make': 'Cadillac', 'model': 'SRX', 'year': 2018, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 485, 'vin': '1FTEW1C80AF184265', 'make': 'Cadillac', 'model': 'Escalade EXT', 'year': 2015, 'color': 'Maroon', 'mileage': 2}
+{'id': 486, 'vin': 'JHMFA3F24AS558035', 'make': 'Buick', 'model': 'LaCrosse', 'year': 2016, 'color': 'Pink', 'mileage': 5}
+{'id': 487, 'vin': '1C4RDHEG4FC112677', 'make': 'Volkswagen', 'model': 'Jetta', 'year': 2015, 'color': 'Purple', 'mileage': 5}
+{'id': 488, 'vin': 'SAJWA4FB8EL728017', 'make': 'Pontiac', 'model': 'Gemini', 'year': 2018, 'color': 'Violet', 'mileage': 2}
+{'id': 489, 'vin': 'WBA3C1C58FK489548', 'make': 'Ford', 'model': 'E250', 'year': 2016, 'color': 'Purple', 'mileage': 4}
+{'id': 490, 'vin': '5N1AT2MK7EC630957', 'make': 'Oldsmobile', 'model': 'Regency', 'year': 2018, 'color': 'Maroon', 'mileage': 4}
+{'id': 491, 'vin': 'WAULFAFR2EA950995', 'make': 'Honda', 'model': 'Element', 'year': 2016, 'color': 'Khaki', 'mileage': 2}
+{'id': 492, 'vin': '1FTEW1CF1FK179685', 'make': 'Lexus', 'model': 'GS', 'year': 2016, 'color': 'Pink', 'mileage': 5}
+{'id': 493, 'vin': 'JM1NC2LF9C0844891', 'make': 'Ford', 'model': 'Econoline E250', 'year': 2015, 'color': 'Crimson', 'mileage': 5}
+{'id': 494, 'vin': '1GYEC63N15R263263', 'make': 'Hummer', 'model': 'H1', 'year': 2017, 'color': 'Indigo', 'mileage': 1}
+{'id': 495, 'vin': 'JN1CV6FE8CM753599', 'make': 'Ford', 'model': 'Contour', 'year': 2015, 'color': 'Khaki', 'mileage': 4}
+{'id': 496, 'vin': 'WAUVT68EX3A954895', 'make': 'Hyundai', 'model': 'Genesis Coupe', 'year': 2016, 'color': 'Red', 'mileage': 4}
+{'id': 497, 'vin': '5TDDW5G10FS958136', 'make': 'Mitsubishi', 'model': 'Cordia', 'year': 2015, 'color': 'Yellow', 'mileage': 1}
+{'id': 498, 'vin': '1G6DU57V990248526', 'make': 'Volkswagen', 'model': 'New Beetle', 'year': 2016, 'color': 'Fuscia', 'mileage': 2}
+{'id': 499, 'vin': '2C3CCAET7CH919009', 'make': 'Nissan', 'model': 'Titan', 'year': 2017, 'color': 'Orange', 'mileage': 1}
+{'id': 500, 'vin': 'JTDKTUD34ED898937', 'make': 'Ford', 'model': 'Model T', 'year': 2015, 'color': 'Fuscia', 'mileage': 1}
+{'id': 501, 'vin': 'JM1BL1L33D1765599', 'make': 'Cadillac', 'model': 'Escalade EXT', 'year': 2015, 'color': 'Mauv', 'mileage': 3}
+{'id': 502, 'vin': 'SCFFDABM1DG098863', 'make': 'Subaru', 'model': 'Forester', 'year': 2017, 'color': 'Violet', 'mileage': 1}
+{'id': 503, 'vin': '4T1BF3EK9AU429100', 'make': 'Scion', 'model': 'tC', 'year': 2015, 'color': 'Orange', 'mileage': 3}
+{'id': 504, 'vin': 'WAU2GBFC6CN476436', 'make': 'Audi', 'model': 'A6', 'year': 2016, 'color': 'Teal', 'mileage': 4}
+{'id': 505, 'vin': '5GAKRAED3CJ358130', 'make': 'Buick', 'model': 'Enclave', 'year': 2018, 'color': 'Red', 'mileage': 3}
+{'id': 506, 'vin': '1G6AB5SX8E0953863', 'make': 'Porsche', 'model': '911', 'year': 2018, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 507, 'vin': 'WDDUG7JB2FA571116', 'make': 'Volvo', 'model': 'S40', 'year': 2016, 'color': 'Turquoise', 'mileage': 4}
+{'id': 508, 'vin': 'WA1LGAFEXDD664686', 'make': 'Chevrolet', 'model': 'Express 1500', 'year': 2015, 'color': 'Blue', 'mileage': 2}
+{'id': 509, 'vin': 'WDDPK4HA1DF827687', 'make': 'Chrysler', 'model': 'Aspen', 'year': 2016, 'color': 'Blue', 'mileage': 4}
+{'id': 510, 'vin': '19XFB4F23DE442126', 'make': 'Volkswagen', 'model': 'Jetta III', 'year': 2015, 'color': 'Violet', 'mileage': 4}
+{'id': 511, 'vin': '5NPET4AC4AH938584', 'make': 'Volvo', 'model': 'S40', 'year': 2017, 'color': 'Indigo', 'mileage': 3}
+{'id': 512, 'vin': '1FTWW3A52AE098163', 'make': 'Subaru', 'model': 'Baja', 'year': 2017, 'color': 'Fuscia', 'mileage': 5}
+{'id': 513, 'vin': '1GD22ZCG6DZ995106', 'make': 'BMW', 'model': '3 Series', 'year': 2016, 'color': 'Khaki', 'mileage': 1}
+{'id': 514, 'vin': 'WAUDFAFC6EN831243', 'make': 'GMC', 'model': 'Sonoma', 'year': 2018, 'color': 'Blue', 'mileage': 4}
+{'id': 515, 'vin': 'JTEBU5JR6D5643741', 'make': 'Mitsubishi', 'model': 'Lancer', 'year': 2015, 'color': 'Purple', 'mileage': 4}
+{'id': 516, 'vin': 'KMHTC6AD4EU533229', 'make': 'GMC', 'model': 'Savana', 'year': 2018, 'color': 'Orange', 'mileage': 4}
+{'id': 517, 'vin': '1G4GL5E3XCF497271', 'make': 'Volkswagen', 'model': 'New Beetle', 'year': 2016, 'color': 'Teal', 'mileage': 5}
+{'id': 518, 'vin': 'JH4DB76581S449146', 'make': 'Mercedes-Benz', 'model': 'SLR McLaren', 'year': 2017, 'color': 'Fuscia', 'mileage': 1}
+{'id': 519, 'vin': '1G4GE5G31FF464557', 'make': 'Chevrolet', 'model': 'Suburban 2500', 'year': 2018, 'color': 'Goldenrod', 'mileage': 3}
+{'id': 520, 'vin': '3D7JB1EK7AG023454', 'make': 'Honda', 'model': 'Fit', 'year': 2018, 'color': 'Mauv', 'mileage': 1}
+{'id': 521, 'vin': '5N1AN0NUXAC487110', 'make': 'Saturn', 'model': 'VUE', 'year': 2016, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 522, 'vin': '5TFBY5F17DX085527', 'make': 'Hyundai', 'model': 'Sonata', 'year': 2017, 'color': 'Maroon', 'mileage': 2}
+{'id': 523, 'vin': '3VWPG3AG1AM249216', 'make': 'Mazda', 'model': 'Mazda6 5-Door', 'year': 2015, 'color': 'Blue', 'mileage': 4}
+{'id': 524, 'vin': 'JM1CW2BL1E0299262', 'make': 'GMC', 'model': '2500', 'year': 2016, 'color': 'Puce', 'mileage': 1}
+{'id': 525, 'vin': '5N1AA0NC4BN272072', 'make': 'Acura', 'model': 'MDX', 'year': 2018, 'color': 'Puce', 'mileage': 3}
+{'id': 526, 'vin': '1N6AF0LX4FN096557', 'make': 'Mercedes-Benz', 'model': 'R-Class', 'year': 2016, 'color': 'Pink', 'mileage': 3}
+{'id': 527, 'vin': '19XFB2E50DE414848', 'make': 'Nissan', 'model': 'Cube', 'year': 2018, 'color': 'Orange', 'mileage': 1}
+{'id': 528, 'vin': '3GYFNAEYXBS208229', 'make': 'Audi', 'model': 'A6', 'year': 2018, 'color': 'Indigo', 'mileage': 2}
+{'id': 529, 'vin': 'WP1AA2A26CL369666', 'make': 'Chevrolet', 'model': 'Express 1500', 'year': 2016, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 530, 'vin': '1G6DF5EY9B0515905', 'make': 'GMC', 'model': 'Sierra 1500', 'year': 2018, 'color': 'Purple', 'mileage': 1}
+{'id': 531, 'vin': '2C3CCAKG7EH288269', 'make': 'Lincoln', 'model': 'MKS', 'year': 2015, 'color': 'Purple', 'mileage': 1}
+{'id': 532, 'vin': 'WAUAF48H59K938286', 'make': 'Mercedes-Benz', 'model': 'E-Class', 'year': 2018, 'color': 'Purple', 'mileage': 2}
+{'id': 533, 'vin': '1GYS4JKJ8FR817255', 'make': 'Mercury', 'model': 'Capri', 'year': 2018, 'color': 'Yellow', 'mileage': 5}
+{'id': 534, 'vin': '3VW517AT1EM484234', 'make': 'Chevrolet', 'model': 'Express', 'year': 2018, 'color': 'Mauv', 'mileage': 5}
+{'id': 535, 'vin': 'WAU2GAFCXEN530799', 'make': 'Ford', 'model': 'F350', 'year': 2017, 'color': 'Teal', 'mileage': 3}
+{'id': 536, 'vin': '1FTEX1CM5BF920869', 'make': 'Dodge', 'model': 'Ram 3500', 'year': 2018, 'color': 'Mauv', 'mileage': 5}
+{'id': 537, 'vin': 'WBAUU33599A379616', 'make': 'Mitsubishi', 'model': 'L300', 'year': 2018, 'color': 'Green', 'mileage': 2}
+{'id': 538, 'vin': 'WBANN73526B677424', 'make': 'Jeep', 'model': 'Wrangler', 'year': 2016, 'color': 'Maroon', 'mileage': 5}
+{'id': 539, 'vin': 'JTDZN3EUXE3329350', 'make': 'Pontiac', 'model': 'Grand Am', 'year': 2015, 'color': 'Crimson', 'mileage': 4}
+{'id': 540, 'vin': 'WAUBVBFB7BN295227', 'make': 'Mercury', 'model': 'Monterey', 'year': 2017, 'color': 'Purple', 'mileage': 4}
+{'id': 541, 'vin': '1G6AA5RX6D0065443', 'make': 'Mitsubishi', 'model': 'Diamante', 'year': 2015, 'color': 'Yellow', 'mileage': 1}
+{'id': 542, 'vin': 'WBALM7C58EJ029519', 'make': 'Chevrolet', 'model': '1500', 'year': 2015, 'color': 'Yellow', 'mileage': 3}
+{'id': 543, 'vin': '2T1BURHE0EC610088', 'make': 'GMC', 'model': 'Sonoma Club Coupe', 'year': 2016, 'color': 'Puce', 'mileage': 5}
+{'id': 544, 'vin': 'WAUKF98E38A803402', 'make': 'Buick', 'model': 'Lucerne', 'year': 2017, 'color': 'Purple', 'mileage': 2}
+{'id': 545, 'vin': '2B3CK2CV8AH075053', 'make': 'GMC', 'model': '3500 Club Coupe', 'year': 2016, 'color': 'Violet', 'mileage': 3}
+{'id': 546, 'vin': 'WBAUL7C50BV444247', 'make': 'Suzuki', 'model': 'Swift', 'year': 2017, 'color': 'Blue', 'mileage': 4}
+{'id': 547, 'vin': '5N1AN0NW9EN206751', 'make': 'Subaru', 'model': 'Legacy', 'year': 2015, 'color': 'Khaki', 'mileage': 5}
+{'id': 548, 'vin': '1C4RDHEG7DC739399', 'make': 'Volkswagen', 'model': 'GTI', 'year': 2015, 'color': 'Green', 'mileage': 5}
+{'id': 549, 'vin': '4T1BD1FK5FU547869', 'make': 'Mitsubishi', 'model': 'GTO', 'year': 2017, 'color': 'Puce', 'mileage': 2}
+{'id': 550, 'vin': '1D7RE3GK5AS126352', 'make': 'Ford', 'model': 'E350', 'year': 2015, 'color': 'Fuscia', 'mileage': 4}
+{'id': 551, 'vin': '1FMCU5K30AK534264', 'make': 'Lamborghini', 'model': 'Murciélago LP640', 'year': 2015, 'color': 'Pink', 'mileage': 4}
+{'id': 552, 'vin': '1D7CW2GK2AS361062', 'make': 'Chevrolet', 'model': 'Avalanche 1500', 'year': 2015, 'color': 'Green', 'mileage': 1}
+{'id': 553, 'vin': '4JGCB2FE4BA129308', 'make': 'Volvo', 'model': 'S60', 'year': 2015, 'color': 'Orange', 'mileage': 1}
+{'id': 554, 'vin': '1HGCR2F38EA343867', 'make': 'Volkswagen', 'model': 'Passat', 'year': 2018, 'color': 'Crimson', 'mileage': 3}
+{'id': 555, 'vin': '1GTC5MF92C8934095', 'make': 'Oldsmobile', 'model': 'Alero', 'year': 2018, 'color': 'Pink', 'mileage': 2}
+{'id': 556, 'vin': '1FTEX1C85AK431879', 'make': 'Mitsubishi', 'model': 'Diamante', 'year': 2017, 'color': 'Yellow', 'mileage': 5}
+{'id': 557, 'vin': '5BZAF0AA7FN563553', 'make': 'Oldsmobile', 'model': 'Silhouette', 'year': 2018, 'color': 'Pink', 'mileage': 5}
+{'id': 558, 'vin': 'WAUKG58E95A421909', 'make': 'Dodge', 'model': 'Caravan', 'year': 2016, 'color': 'Green', 'mileage': 2}
+{'id': 559, 'vin': 'JH4KC1F35EC719451', 'make': 'Chevrolet', 'model': 'Corvette', 'year': 2018, 'color': 'Orange', 'mileage': 5}
+{'id': 560, 'vin': 'TRUUT28N711641894', 'make': 'Mercury', 'model': 'Mystique', 'year': 2018, 'color': 'Orange', 'mileage': 1}
+{'id': 561, 'vin': '1B3CC1FB1AN927811', 'make': 'Dodge', 'model': 'Charger', 'year': 2016, 'color': 'Orange', 'mileage': 5}
+{'id': 562, 'vin': 'WBAXG5C58DD946759', 'make': 'Infiniti', 'model': 'Q', 'year': 2015, 'color': 'Puce', 'mileage': 4}
+{'id': 563, 'vin': '1GTN1TEX2BZ487100', 'make': 'Toyota', 'model': 'T100 Xtra', 'year': 2017, 'color': 'Orange', 'mileage': 4}
+{'id': 564, 'vin': '3D7TT2CT0BG948294', 'make': 'Mercedes-Benz', 'model': 'W126', 'year': 2015, 'color': 'Red', 'mileage': 5}
+{'id': 565, 'vin': 'WDDEJ7GB3CA455528', 'make': 'Hyundai', 'model': 'Tucson', 'year': 2016, 'color': 'Turquoise', 'mileage': 1}
+{'id': 566, 'vin': 'JTHBE5C28A2580753', 'make': 'Suzuki', 'model': 'Samurai', 'year': 2016, 'color': 'Indigo', 'mileage': 4}
+{'id': 567, 'vin': 'WAUVC68E94A140321', 'make': 'GMC', 'model': 'Sonoma', 'year': 2018, 'color': 'Fuscia', 'mileage': 5}
+{'id': 568, 'vin': '2C3CCABG1FH037796', 'make': 'Hyundai', 'model': 'Tiburon', 'year': 2018, 'color': 'Mauv', 'mileage': 1}
+{'id': 569, 'vin': '1G4HR57Y26U399492', 'make': 'Ford', 'model': 'Crown Victoria', 'year': 2015, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 570, 'vin': 'WBAXA5C53ED060495', 'make': 'Ford', 'model': 'Escape', 'year': 2018, 'color': 'Teal', 'mileage': 3}
+{'id': 571, 'vin': 'JH4NA21683T804520', 'make': 'Chevrolet', 'model': 'Sportvan G10', 'year': 2018, 'color': 'Crimson', 'mileage': 5}
+{'id': 572, 'vin': 'WAUGL78E98A954618', 'make': 'Mazda', 'model': 'MX-3', 'year': 2018, 'color': 'Aquamarine', 'mileage': 3}
+{'id': 573, 'vin': 'KNDKG3A27A7919864', 'make': 'Subaru', 'model': 'Brat', 'year': 2016, 'color': 'Indigo', 'mileage': 4}
+{'id': 574, 'vin': '1GKS1KE09ER078696', 'make': 'Honda', 'model': 'Element', 'year': 2017, 'color': 'Orange', 'mileage': 2}
+{'id': 575, 'vin': 'WAUJC58E64A027600', 'make': 'Hyundai', 'model': 'Elantra', 'year': 2016, 'color': 'Violet', 'mileage': 5}
+{'id': 576, 'vin': 'WAULT68E54A967952', 'make': 'Subaru', 'model': 'Legacy', 'year': 2017, 'color': 'Pink', 'mileage': 3}
+{'id': 577, 'vin': 'WA1CMAFP8FA050668', 'make': 'Plymouth', 'model': 'Neon', 'year': 2017, 'color': 'Crimson', 'mileage': 3}
+{'id': 578, 'vin': '2T2BC1BA8FC830537', 'make': 'Ford', 'model': 'Focus', 'year': 2017, 'color': 'Crimson', 'mileage': 5}
+{'id': 579, 'vin': 'WAUEF78E18A397427', 'make': 'Toyota', 'model': '4Runner', 'year': 2017, 'color': 'Turquoise', 'mileage': 1}
+{'id': 580, 'vin': '1GD01ZCGXEF061768', 'make': 'Pontiac', 'model': 'Montana', 'year': 2018, 'color': 'Teal', 'mileage': 5}
+{'id': 581, 'vin': '3D4PG9FV6AT825131', 'make': 'Lexus', 'model': 'IS', 'year': 2018, 'color': 'Puce', 'mileage': 3}
+{'id': 582, 'vin': 'WVGAV7AX3AW444378', 'make': 'GMC', 'model': 'Jimmy', 'year': 2016, 'color': 'Puce', 'mileage': 3}
+{'id': 583, 'vin': '1FMHK7B8XBG699827', 'make': 'Buick', 'model': 'Century', 'year': 2015, 'color': 'Purple', 'mileage': 1}
+{'id': 584, 'vin': 'WUAAU34258N486053', 'make': 'Ford', 'model': 'Explorer', 'year': 2017, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 585, 'vin': 'WAUMGBFL3DA429852', 'make': 'Land Rover', 'model': 'LR3', 'year': 2017, 'color': 'Khaki', 'mileage': 3}
+{'id': 586, 'vin': 'WP0AA2A93BS038694', 'make': 'GMC', 'model': '3500 Club Coupe', 'year': 2015, 'color': 'Purple', 'mileage': 2}
+{'id': 587, 'vin': 'JH4CL95897C485978', 'make': 'Chrysler', 'model': 'Crossfire', 'year': 2018, 'color': 'Khaki', 'mileage': 5}
+{'id': 588, 'vin': 'JN8AE2KP8F9458034', 'make': 'Oldsmobile', 'model': 'Cutlass', 'year': 2016, 'color': 'Pink', 'mileage': 5}
+{'id': 589, 'vin': 'WAUKFAFL2CN645803', 'make': 'Saab', 'model': '9000', 'year': 2015, 'color': 'Mauv', 'mileage': 4}
+{'id': 590, 'vin': '1FTKR1AD3AP071012', 'make': 'Pontiac', 'model': 'Grand Prix', 'year': 2015, 'color': 'Violet', 'mileage': 2}
+{'id': 591, 'vin': '5J8TB3H32GL556182', 'make': 'Suzuki', 'model': 'Equator', 'year': 2018, 'color': 'Green', 'mileage': 4}
+{'id': 592, 'vin': 'JM1NC2JF0F0605107', 'make': 'Pontiac', 'model': 'Firebird Trans Am', 'year': 2017, 'color': 'Maroon', 'mileage': 5}
+{'id': 593, 'vin': '1GYS4MKJ1FR515372', 'make': 'Honda', 'model': 'CR-V', 'year': 2015, 'color': 'Turquoise', 'mileage': 2}
+{'id': 594, 'vin': '5NPET4AC1AH557744', 'make': 'Chevrolet', 'model': 'Suburban 1500', 'year': 2017, 'color': 'Violet', 'mileage': 2}
+{'id': 595, 'vin': '1FTEW1CM6EK865279', 'make': 'Chevrolet', 'model': '3500', 'year': 2018, 'color': 'Yellow', 'mileage': 4}
+{'id': 596, 'vin': 'JTHBL5EF9A5913644', 'make': 'Toyota', 'model': 'Tundra', 'year': 2016, 'color': 'Violet', 'mileage': 2}
+{'id': 597, 'vin': 'WBA5M0C57ED746962', 'make': 'Land Rover', 'model': 'Discovery', 'year': 2018, 'color': 'Teal', 'mileage': 2}
+{'id': 598, 'vin': '1GYS3HKJ9FR687207', 'make': 'Mercury', 'model': 'Grand Marquis', 'year': 2015, 'color': 'Turquoise', 'mileage': 5}
+{'id': 599, 'vin': '5NPDH4AEXDH311701', 'make': 'Lotus', 'model': 'Exige', 'year': 2018, 'color': 'Crimson', 'mileage': 2}
+{'id': 600, 'vin': '1C3CC4FB9AN934381', 'make': 'Nissan', 'model': 'Maxima', 'year': 2016, 'color': 'Purple', 'mileage': 1}
+{'id': 601, 'vin': '3GYFK66N34G820613', 'make': 'Toyota', 'model': 'T100 Xtra', 'year': 2018, 'color': 'Yellow', 'mileage': 5}
+{'id': 602, 'vin': '3GYFNDE37ES344313', 'make': 'Suzuki', 'model': 'Kizashi', 'year': 2017, 'color': 'Purple', 'mileage': 2}
+{'id': 603, 'vin': 'WP0AA2A92AS679141', 'make': 'GMC', 'model': 'Vandura G3500', 'year': 2018, 'color': 'Pink', 'mileage': 4}
+{'id': 604, 'vin': '1G6DP1E37C0662865', 'make': 'Mazda', 'model': 'CX-7', 'year': 2018, 'color': 'Fuscia', 'mileage': 2}
+{'id': 605, 'vin': 'KNAFK4A6XF5075716', 'make': 'GMC', 'model': 'Sonoma Club Coupe', 'year': 2018, 'color': 'Turquoise', 'mileage': 1}
+{'id': 606, 'vin': 'WDDGF4HB5ER218387', 'make': 'GMC', 'model': 'Terrain', 'year': 2018, 'color': 'Blue', 'mileage': 1}
+{'id': 607, 'vin': 'JM1NC2NF9E0400040', 'make': 'Acura', 'model': 'MDX', 'year': 2018, 'color': 'Crimson', 'mileage': 1}
+{'id': 608, 'vin': 'WAUML44D53N349138', 'make': 'Cadillac', 'model': 'Seville', 'year': 2018, 'color': 'Purple', 'mileage': 5}
+{'id': 609, 'vin': '1G4HR54K22U209894', 'make': 'Dodge', 'model': 'Ram 2500', 'year': 2018, 'color': 'Purple', 'mileage': 3}
+{'id': 610, 'vin': '2C4RDGCG7FR501382', 'make': 'Pontiac', 'model': 'Safari', 'year': 2015, 'color': 'Mauv', 'mileage': 4}
+{'id': 611, 'vin': '1N4AL2AP5AN883106', 'make': 'Chevrolet', 'model': '2500', 'year': 2018, 'color': 'Teal', 'mileage': 1}
+{'id': 612, 'vin': 'JA32X2HU6CU056463', 'make': 'Chevrolet', 'model': 'Blazer', 'year': 2017, 'color': 'Khaki', 'mileage': 4}
+{'id': 613, 'vin': '4T1BF1FK3EU743642', 'make': 'Pontiac', 'model': 'GTO', 'year': 2015, 'color': 'Khaki', 'mileage': 5}
+{'id': 614, 'vin': 'JN1AJ0HP9CM162809', 'make': 'Pontiac', 'model': 'Grand Prix', 'year': 2015, 'color': 'Puce', 'mileage': 2}
+{'id': 615, 'vin': 'WAUSH98E16A450178', 'make': 'Mitsubishi', 'model': 'Truck', 'year': 2018, 'color': 'Violet', 'mileage': 2}
+{'id': 616, 'vin': '1GYS3NKJ3FR339594', 'make': 'Jaguar', 'model': 'XK', 'year': 2017, 'color': 'Puce', 'mileage': 5}
+{'id': 617, 'vin': '2C3CDZFJXFH514615', 'make': 'Nissan', 'model': 'Murano', 'year': 2018, 'color': 'Green', 'mileage': 4}
+{'id': 618, 'vin': '19UUA9F77DA550787', 'make': 'GMC', 'model': 'Sierra 3500', 'year': 2016, 'color': 'Crimson', 'mileage': 4}
+{'id': 619, 'vin': '4USBU535X8L739852', 'make': 'Lexus', 'model': 'GX', 'year': 2017, 'color': 'Puce', 'mileage': 4}
+{'id': 620, 'vin': 'WAUAH78E48A304568', 'make': 'Audi', 'model': 'A8', 'year': 2016, 'color': 'Aquamarine', 'mileage': 4}
+{'id': 621, 'vin': 'WA1DGBFE0ED673313', 'make': 'Volkswagen', 'model': 'Golf', 'year': 2016, 'color': 'Violet', 'mileage': 1}
+{'id': 622, 'vin': 'SCBZK25E91C042560', 'make': 'Ford', 'model': 'Probe', 'year': 2016, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 623, 'vin': '2G61L5S36F9055182', 'make': 'Buick', 'model': 'Century', 'year': 2018, 'color': 'Indigo', 'mileage': 5}
+{'id': 624, 'vin': 'WAUNF68P86A314889', 'make': 'Chevrolet', 'model': 'Express 3500', 'year': 2015, 'color': 'Aquamarine', 'mileage': 4}
+{'id': 625, 'vin': 'JN1CV6FE5AM951179', 'make': 'Honda', 'model': 'Civic', 'year': 2018, 'color': 'Red', 'mileage': 5}
+{'id': 626, 'vin': '1GYS3GEF3CR929714', 'make': 'BMW', 'model': '5 Series', 'year': 2018, 'color': 'Violet', 'mileage': 4}
+{'id': 627, 'vin': '1D4PT6GX5AW155995', 'make': 'Chevrolet', 'model': 'Venture', 'year': 2018, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 628, 'vin': 'WBABD33495P110263', 'make': 'Chevrolet', 'model': '2500', 'year': 2015, 'color': 'Fuscia', 'mileage': 5}
+{'id': 629, 'vin': 'WA1WMBFE0CD774625', 'make': 'Chevrolet', 'model': 'Venture', 'year': 2017, 'color': 'Red', 'mileage': 3}
+{'id': 630, 'vin': 'JN1AV7AP2FM925264', 'make': 'Nissan', 'model': 'Sentra', 'year': 2018, 'color': 'Fuscia', 'mileage': 1}
+{'id': 631, 'vin': 'WUARL48H74K832884', 'make': 'Acura', 'model': 'MDX', 'year': 2016, 'color': 'Teal', 'mileage': 5}
+{'id': 632, 'vin': '2HNYD18846H599653', 'make': 'Nissan', 'model': 'Sentra', 'year': 2017, 'color': 'Mauv', 'mileage': 2}
+{'id': 633, 'vin': '2C3CDXEJ6CH094627', 'make': 'Saab', 'model': '900', 'year': 2015, 'color': 'Blue', 'mileage': 4}
+{'id': 634, 'vin': '2B3CK2CV0AH047814', 'make': 'Hummer', 'model': 'H1', 'year': 2017, 'color': 'Crimson', 'mileage': 5}
+{'id': 635, 'vin': 'KNADH4A35B6552276', 'make': 'Infiniti', 'model': 'EX', 'year': 2017, 'color': 'Green', 'mileage': 2}
+{'id': 636, 'vin': '1G6DU6ED0B0626769', 'make': 'BMW', 'model': 'M5', 'year': 2018, 'color': 'Fuscia', 'mileage': 2}
+{'id': 637, 'vin': 'WBAXA5C55ED868959', 'make': 'Chevrolet', 'model': 'Silverado 1500', 'year': 2018, 'color': 'Red', 'mileage': 2}
+{'id': 638, 'vin': 'KNADM4A33C6963575', 'make': 'Toyota', 'model': 'Land Cruiser', 'year': 2015, 'color': 'Khaki', 'mileage': 4}
+{'id': 639, 'vin': '4T1BK3DBXBU861192', 'make': 'Buick', 'model': 'LeSabre', 'year': 2017, 'color': 'Pink', 'mileage': 2}
+{'id': 640, 'vin': '1GKMCAE30AR953049', 'make': 'Oldsmobile', 'model': 'Regency', 'year': 2015, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 641, 'vin': 'WVGAV7AX0AW631979', 'make': 'Lexus', 'model': 'SC', 'year': 2017, 'color': 'Maroon', 'mileage': 3}
+{'id': 642, 'vin': 'SCFFDAAE4CG098896', 'make': 'Honda', 'model': 'Odyssey', 'year': 2017, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 643, 'vin': 'KMHFC4DD3BA941005', 'make': 'Mercedes-Benz', 'model': 'SL-Class', 'year': 2016, 'color': 'Fuscia', 'mileage': 3}
+{'id': 644, 'vin': '1C4SDJCT9CC782066', 'make': 'Fillmore', 'model': 'Fillmore', 'year': 2017, 'color': 'Violet', 'mileage': 2}
+{'id': 645, 'vin': 'WAUDFAFL3AN511596', 'make': 'Chevrolet', 'model': 'G-Series G20', 'year': 2017, 'color': 'Pink', 'mileage': 3}
+{'id': 646, 'vin': 'WBAGL83565D147240', 'make': 'Eagle', 'model': 'Vision', 'year': 2016, 'color': 'Orange', 'mileage': 3}
+{'id': 647, 'vin': '2C3CCAAG7FH878247', 'make': 'Toyota', 'model': 'Prius', 'year': 2016, 'color': 'Purple', 'mileage': 2}
+{'id': 648, 'vin': 'WBAEW53403P235491', 'make': 'BMW', 'model': '1 Series', 'year': 2017, 'color': 'Turquoise', 'mileage': 3}
+{'id': 649, 'vin': '1FTMF1E87AF769871', 'make': 'Mazda', 'model': 'Familia', 'year': 2016, 'color': 'Violet', 'mileage': 2}
+{'id': 650, 'vin': '1GYS4EEJXCR436456', 'make': 'Jaguar', 'model': 'XF', 'year': 2018, 'color': 'Puce', 'mileage': 4}
+{'id': 651, 'vin': 'WBAVM1C50EV070807', 'make': 'Land Rover', 'model': 'Range Rover Sport', 'year': 2015, 'color': 'Turquoise', 'mileage': 2}
+{'id': 652, 'vin': 'SALWR2VF0FA763561', 'make': 'Acura', 'model': 'NSX', 'year': 2018, 'color': 'Green', 'mileage': 2}
+{'id': 653, 'vin': 'WAULFAFR2AA483572', 'make': 'Toyota', 'model': 'Yaris', 'year': 2017, 'color': 'Fuscia', 'mileage': 5}
+{'id': 654, 'vin': '1FTSX2B52AE859441', 'make': 'Toyota', 'model': 'Prius', 'year': 2018, 'color': 'Teal', 'mileage': 3}
+{'id': 655, 'vin': '5N1AA0NC0BN312423', 'make': 'Mercedes-Benz', 'model': 'SL-Class', 'year': 2018, 'color': 'Purple', 'mileage': 5}
+{'id': 656, 'vin': '1G6AA5RX7E0182658', 'make': 'Jaguar', 'model': 'S-Type', 'year': 2016, 'color': 'Pink', 'mileage': 4}
+{'id': 657, 'vin': 'WAUVT68E92A130000', 'make': 'Jeep', 'model': 'Cherokee', 'year': 2018, 'color': 'Aquamarine', 'mileage': 4}
+{'id': 658, 'vin': 'WDDGF4HB4EA564154', 'make': 'Ford', 'model': 'Escort', 'year': 2016, 'color': 'Blue', 'mileage': 5}
+{'id': 659, 'vin': 'WAUMF98K99A334851', 'make': 'MINI', 'model': 'Clubman', 'year': 2015, 'color': 'Purple', 'mileage': 3}
+{'id': 660, 'vin': '1G6DK8E36C0871778', 'make': 'GMC', 'model': 'Savana 3500', 'year': 2018, 'color': 'Maroon', 'mileage': 4}
+{'id': 661, 'vin': 'WA1FFCFS2FR788488', 'make': 'Toyota', 'model': 'Supra', 'year': 2018, 'color': 'Mauv', 'mileage': 4}
+{'id': 662, 'vin': 'WBA3A9C50DF189139', 'make': 'Buick', 'model': 'Century', 'year': 2017, 'color': 'Purple', 'mileage': 1}
+{'id': 663, 'vin': '2T1BU4EE3DC612133', 'make': 'Mercedes-Benz', 'model': 'S-Class', 'year': 2016, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 664, 'vin': '1N4AL2AP6CN907478', 'make': 'Mazda', 'model': 'MX-5', 'year': 2017, 'color': 'Khaki', 'mileage': 5}
+{'id': 665, 'vin': '1FTEW1CM2DK927503', 'make': 'Holden', 'model': 'VS Commodore', 'year': 2017, 'color': 'Khaki', 'mileage': 1}
+{'id': 666, 'vin': '5GADV33W77D463715', 'make': 'Ford', 'model': 'Edge', 'year': 2018, 'color': 'Blue', 'mileage': 1}
+{'id': 667, 'vin': 'JN8AE2KP9D9630083', 'make': 'Mitsubishi', 'model': 'Cordia', 'year': 2016, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 668, 'vin': 'WAUFFAFL9FA159549', 'make': 'GMC', 'model': 'Vandura 3500', 'year': 2018, 'color': 'Pink', 'mileage': 4}
+{'id': 669, 'vin': '3GYFNDEY0AS165214', 'make': 'Audi', 'model': 'TT', 'year': 2015, 'color': 'Crimson', 'mileage': 1}
+{'id': 670, 'vin': 'KM8NU4CC5AU993394', 'make': 'Saturn', 'model': 'VUE', 'year': 2017, 'color': 'Indigo', 'mileage': 5}
+{'id': 671, 'vin': 'NM0AS8F77E1595316', 'make': 'Oldsmobile', 'model': 'Silhouette', 'year': 2015, 'color': 'Crimson', 'mileage': 2}
+{'id': 672, 'vin': '1FTWW3A5XAE673982', 'make': 'Honda', 'model': 'Odyssey', 'year': 2018, 'color': 'Aquamarine', 'mileage': 2}
+{'id': 673, 'vin': 'WAUNF78P76A682910', 'make': 'Acura', 'model': 'NSX', 'year': 2018, 'color': 'Red', 'mileage': 2}
+{'id': 674, 'vin': 'WBAWC33527P864394', 'make': 'BMW', 'model': '6 Series', 'year': 2018, 'color': 'Fuscia', 'mileage': 2}
+{'id': 675, 'vin': '3GYFNAE30ES420758', 'make': 'BMW', 'model': '525', 'year': 2015, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 676, 'vin': 'JTHKD5BH4E2293263', 'make': 'Morgan', 'model': 'Aero 8', 'year': 2016, 'color': 'Khaki', 'mileage': 4}
+{'id': 677, 'vin': '5N1AN0NU8AC663569', 'make': 'Toyota', 'model': 'Avalon', 'year': 2015, 'color': 'Violet', 'mileage': 5}
+{'id': 678, 'vin': '1GYS3JEF4DR519387', 'make': 'Audi', 'model': '5000CS Quattro', 'year': 2018, 'color': 'Crimson', 'mileage': 2}
+{'id': 679, 'vin': 'WVWBB7AJ1DW960708', 'make': 'Porsche', 'model': 'Cayenne', 'year': 2015, 'color': 'Khaki', 'mileage': 3}
+{'id': 680, 'vin': 'WBA4A9C57FD462709', 'make': 'BMW', 'model': '3 Series', 'year': 2015, 'color': 'Maroon', 'mileage': 4}
+{'id': 681, 'vin': '1FTEX1EW0AF854065', 'make': 'GMC', 'model': 'Yukon', 'year': 2015, 'color': 'Violet', 'mileage': 4}
+{'id': 682, 'vin': '3D7TP2CTXAG126492', 'make': 'Chevrolet', 'model': 'Corvette', 'year': 2015, 'color': 'Mauv', 'mileage': 2}
+{'id': 683, 'vin': '1N6AA0ECXDN813551', 'make': 'Cadillac', 'model': 'Escalade', 'year': 2018, 'color': 'Puce', 'mileage': 3}
+{'id': 684, 'vin': '2HNYD2H31DH484516', 'make': 'Buick', 'model': 'Skylark', 'year': 2016, 'color': 'Fuscia', 'mileage': 1}
+{'id': 685, 'vin': 'WAUJGAFD6FN922328', 'make': 'Lexus', 'model': 'LX', 'year': 2015, 'color': 'Red', 'mileage': 5}
+{'id': 686, 'vin': 'WA1AV94L67D328549', 'make': 'Mitsubishi', 'model': 'Mirage', 'year': 2017, 'color': 'Aquamarine', 'mileage': 2}
+{'id': 687, 'vin': '2HNYD2H41DH081175', 'make': 'Dodge', 'model': 'Ram 3500', 'year': 2017, 'color': 'Fuscia', 'mileage': 2}
+{'id': 688, 'vin': '4A4JM2AS4BE249243', 'make': 'Ford', 'model': 'F250', 'year': 2017, 'color': 'Pink', 'mileage': 4}
+{'id': 689, 'vin': '19XFA1E38AE935985', 'make': 'BMW', 'model': 'X5 M', 'year': 2017, 'color': 'Aquamarine', 'mileage': 3}
+{'id': 690, 'vin': 'WAUVT68E15A883380', 'make': 'Honda', 'model': 'Insight', 'year': 2016, 'color': 'Mauv', 'mileage': 2}
+{'id': 691, 'vin': 'WAUHF78P59A223893', 'make': 'Mercedes-Benz', 'model': 'E-Class', 'year': 2017, 'color': 'Blue', 'mileage': 4}
+{'id': 692, 'vin': 'KMHGH4JH4EU730122', 'make': 'Ford', 'model': 'Econoline E350', 'year': 2015, 'color': 'Teal', 'mileage': 1}
+{'id': 693, 'vin': 'WAU2GBFC7DN744380', 'make': 'Nissan', 'model': 'Xterra', 'year': 2016, 'color': 'Mauv', 'mileage': 1}
+{'id': 694, 'vin': 'JN8AZ2KR4DT767831', 'make': 'Mercedes-Benz', 'model': 'CLK-Class', 'year': 2017, 'color': 'Crimson', 'mileage': 2}
+{'id': 695, 'vin': 'JM1NC2LF5F0275669', 'make': 'Porsche', 'model': 'Boxster', 'year': 2018, 'color': 'Purple', 'mileage': 1}
+{'id': 696, 'vin': '5GADV23127D516531', 'make': 'GMC', 'model': 'Yukon XL', 'year': 2018, 'color': 'Fuscia', 'mileage': 4}
+{'id': 697, 'vin': '1FTEW1C87FK022325', 'make': 'Audi', 'model': 'S4', 'year': 2016, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 698, 'vin': 'YV4902BZ4B1632671', 'make': 'Hummer', 'model': 'H2', 'year': 2015, 'color': 'Orange', 'mileage': 3}
+{'id': 699, 'vin': 'WBAVA33588F039632', 'make': 'Honda', 'model': 'Insight', 'year': 2018, 'color': 'Purple', 'mileage': 4}
+{'id': 700, 'vin': 'WA1CGBFEXBD273959', 'make': 'Hyundai', 'model': 'Sonata', 'year': 2016, 'color': 'Maroon', 'mileage': 3}
+{'id': 701, 'vin': 'WAUVF78K49A942978', 'make': 'Honda', 'model': 'Civic', 'year': 2016, 'color': 'Pink', 'mileage': 1}
+{'id': 702, 'vin': '1G4PS5SK5D4109911', 'make': 'Mercedes-Benz', 'model': 'S-Class', 'year': 2018, 'color': 'Purple', 'mileage': 4}
+{'id': 703, 'vin': '3C6JD7AP7CG378014', 'make': 'Oldsmobile', 'model': 'Regency', 'year': 2017, 'color': 'Pink', 'mileage': 5}
+{'id': 704, 'vin': '1FTSW3A59AE483847', 'make': 'Mercedes-Benz', 'model': 'E-Class', 'year': 2017, 'color': 'Puce', 'mileage': 3}
+{'id': 705, 'vin': '1HGCR2F34EA975779', 'make': 'Daewoo', 'model': 'Leganza', 'year': 2016, 'color': 'Indigo', 'mileage': 4}
+{'id': 706, 'vin': '2C3CCAEG9FH666976', 'make': 'Buick', 'model': 'Century', 'year': 2018, 'color': 'Turquoise', 'mileage': 2}
+{'id': 707, 'vin': 'WBAFU9C51CC830142', 'make': 'Plymouth', 'model': 'Neon', 'year': 2016, 'color': 'Purple', 'mileage': 4}
+{'id': 708, 'vin': '5N1AN0NU3AC743071', 'make': 'Pontiac', 'model': 'Grand Am', 'year': 2016, 'color': 'Violet', 'mileage': 1}
+{'id': 709, 'vin': 'YV126MFD0F2832826', 'make': 'Mercedes-Benz', 'model': '300TE', 'year': 2017, 'color': 'Orange', 'mileage': 4}
+{'id': 710, 'vin': '2T1KE4EE9DC621125', 'make': 'Ford', 'model': 'Taurus', 'year': 2018, 'color': 'Turquoise', 'mileage': 5}
+{'id': 711, 'vin': '1D7RB1CT2BS484487', 'make': 'Hyundai', 'model': 'Sonata', 'year': 2015, 'color': 'Blue', 'mileage': 1}
+{'id': 712, 'vin': 'YV1672MK3A2048718', 'make': 'Toyota', 'model': 'Tercel', 'year': 2017, 'color': 'Khaki', 'mileage': 4}
+{'id': 713, 'vin': '5N1AN0NWXEN859623', 'make': 'Chevrolet', 'model': 'Impala', 'year': 2018, 'color': 'Yellow', 'mileage': 5}
+{'id': 714, 'vin': '19VDE1F38DE890554', 'make': 'GMC', 'model': 'Savana 1500', 'year': 2018, 'color': 'Green', 'mileage': 5}
+{'id': 715, 'vin': 'WBA3C3G57EN258062', 'make': 'Infiniti', 'model': 'QX56', 'year': 2015, 'color': 'Indigo', 'mileage': 1}
+{'id': 716, 'vin': 'YV1672MC4AJ324774', 'make': 'Oldsmobile', 'model': 'Aurora', 'year': 2017, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 717, 'vin': '3D73M4EL5AG851712', 'make': 'Volkswagen', 'model': 'Golf', 'year': 2018, 'color': 'Green', 'mileage': 2}
+{'id': 718, 'vin': 'KNDPB3A26D7519643', 'make': 'Volkswagen', 'model': 'Jetta', 'year': 2015, 'color': 'Turquoise', 'mileage': 2}
+{'id': 719, 'vin': 'SCFAD05D69G293185', 'make': 'Buick', 'model': 'Skyhawk', 'year': 2015, 'color': 'Khaki', 'mileage': 2}
+{'id': 720, 'vin': '3N1CN7AP9EK563571', 'make': 'Mercedes-Benz', 'model': 'M-Class', 'year': 2016, 'color': 'Violet', 'mileage': 3}
+{'id': 721, 'vin': '3FAHP0CG4CR501376', 'make': 'Audi', 'model': 'A8', 'year': 2017, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 722, 'vin': 'WBAYF8C52ED648136', 'make': 'BMW', 'model': 'Z8', 'year': 2015, 'color': 'Fuscia', 'mileage': 4}
+{'id': 723, 'vin': 'WBA4A5C53FD940049', 'make': 'Jaguar', 'model': 'XK Series', 'year': 2017, 'color': 'Blue', 'mileage': 5}
+{'id': 724, 'vin': 'JTEBU5JR0F5977511', 'make': 'Dodge', 'model': 'Stratus', 'year': 2017, 'color': 'Teal', 'mileage': 1}
+{'id': 725, 'vin': '2LMDJ6JK5BB183463', 'make': 'Kia', 'model': 'Sportage', 'year': 2016, 'color': 'Indigo', 'mileage': 1}
+{'id': 726, 'vin': 'WBAEV33404K560437', 'make': 'Jeep', 'model': 'Grand Cherokee', 'year': 2017, 'color': 'Indigo', 'mileage': 3}
+{'id': 727, 'vin': '3GYFNDEY9AS057559', 'make': 'Audi', 'model': 'A5', 'year': 2018, 'color': 'Red', 'mileage': 5}
+{'id': 728, 'vin': 'WBAPN73519A905514', 'make': 'Volvo', 'model': '240', 'year': 2016, 'color': 'Purple', 'mileage': 1}
+{'id': 729, 'vin': 'WDDLJ6HB9FA084167', 'make': 'Dodge', 'model': 'Caliber', 'year': 2018, 'color': 'Red', 'mileage': 5}
+{'id': 730, 'vin': 'WDCYC3HF8FX312498', 'make': 'Dodge', 'model': 'Ram Wagon B350', 'year': 2017, 'color': 'Violet', 'mileage': 5}
+{'id': 731, 'vin': 'WAUKF98E48A600728', 'make': 'Cadillac', 'model': 'CTS', 'year': 2017, 'color': 'Indigo', 'mileage': 1}
+{'id': 732, 'vin': 'JTHKD5BH4F2076331', 'make': 'Nissan', 'model': 'Armada', 'year': 2017, 'color': 'Khaki', 'mileage': 2}
+{'id': 733, 'vin': 'KNAFX6A89F5163851', 'make': 'Chevrolet', 'model': 'Camaro', 'year': 2018, 'color': 'Teal', 'mileage': 3}
+{'id': 734, 'vin': 'WAUBGBFC0CN756465', 'make': 'Dodge', 'model': 'Dakota', 'year': 2015, 'color': 'Red', 'mileage': 2}
+{'id': 735, 'vin': '1GTCSBD98A8789612', 'make': 'Toyota', 'model': 'Yaris', 'year': 2016, 'color': 'Yellow', 'mileage': 2}
+{'id': 736, 'vin': 'WAUFFBFL0DN332242', 'make': 'Infiniti', 'model': 'G', 'year': 2016, 'color': 'Violet', 'mileage': 1}
+{'id': 737, 'vin': 'WAUSF98K29N539332', 'make': 'Subaru', 'model': 'Legacy', 'year': 2015, 'color': 'Khaki', 'mileage': 5}
+{'id': 738, 'vin': '1G6AF5SX1E0675375', 'make': 'Ford', 'model': 'Focus', 'year': 2016, 'color': 'Yellow', 'mileage': 3}
+{'id': 739, 'vin': '2V4RW3DG8BR061366', 'make': 'Jaguar', 'model': 'XF', 'year': 2016, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 740, 'vin': 'WBANW13508C857041', 'make': 'GMC', 'model': 'Canyon', 'year': 2015, 'color': 'Aquamarine', 'mileage': 4}
+{'id': 741, 'vin': '3C6JD6AK7CG916242', 'make': 'Oldsmobile', 'model': '98', 'year': 2016, 'color': 'Pink', 'mileage': 2}
+{'id': 742, 'vin': '1FTSW3A51AE910079', 'make': 'Volkswagen', 'model': 'Passat', 'year': 2017, 'color': 'Maroon', 'mileage': 5}
+{'id': 743, 'vin': 'JTHKD5BH1F2225133', 'make': 'Ford', 'model': 'Bronco', 'year': 2018, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 744, 'vin': 'WBABN53473J411803', 'make': 'Aston Martin', 'model': 'DBS', 'year': 2018, 'color': 'Red', 'mileage': 1}
+{'id': 745, 'vin': 'KMHHU6KJ3FU919942', 'make': 'Mitsubishi', 'model': 'Truck', 'year': 2017, 'color': 'Mauv', 'mileage': 2}
+{'id': 746, 'vin': 'SAJWA1EK4EM699030', 'make': 'Buick', 'model': 'Century', 'year': 2017, 'color': 'Khaki', 'mileage': 4}
+{'id': 747, 'vin': '19UUA66205A085824', 'make': 'Infiniti', 'model': 'EX', 'year': 2016, 'color': 'Yellow', 'mileage': 2}
+{'id': 748, 'vin': '5J8TB4H79GL272220', 'make': 'Jaguar', 'model': 'XJ Series', 'year': 2016, 'color': 'Purple', 'mileage': 1}
+{'id': 749, 'vin': 'WBADX7C57DE378836', 'make': 'Pontiac', 'model': 'Aztek', 'year': 2016, 'color': 'Green', 'mileage': 5}
+{'id': 750, 'vin': 'WA1CMAFP6EA674449', 'make': 'Volvo', 'model': 'S60', 'year': 2016, 'color': 'Crimson', 'mileage': 3}
+{'id': 751, 'vin': '1N4AB7AP7DN815829', 'make': 'Acura', 'model': 'TL', 'year': 2017, 'color': 'Mauv', 'mileage': 5}
+{'id': 752, 'vin': '3D4PG4FB4AT054919', 'make': 'Dodge', 'model': 'Viper', 'year': 2016, 'color': 'Maroon', 'mileage': 3}
+{'id': 753, 'vin': 'WAUML54B23N685835', 'make': 'Maserati', 'model': 'GranTurismo', 'year': 2016, 'color': 'Turquoise', 'mileage': 5}
+{'id': 754, 'vin': 'WA1VFBFL8EA952080', 'make': 'Chevrolet', 'model': 'Corvette', 'year': 2017, 'color': 'Khaki', 'mileage': 3}
+{'id': 755, 'vin': 'WAUGN74F39N796473', 'make': 'Buick', 'model': 'Coachbuilder', 'year': 2016, 'color': 'Orange', 'mileage': 3}
+{'id': 756, 'vin': 'WAUDFAFL1BA278634', 'make': 'Cadillac', 'model': 'CTS', 'year': 2017, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 757, 'vin': 'WAUEF78E06A444931', 'make': 'Mercedes-Benz', 'model': 'E-Class', 'year': 2016, 'color': 'Teal', 'mileage': 2}
+{'id': 758, 'vin': 'JN8AZ1FY4CW812355', 'make': 'Porsche', 'model': '911', 'year': 2018, 'color': 'Green', 'mileage': 1}
+{'id': 759, 'vin': 'WBAFU9C52BC235105', 'make': 'Mercury', 'model': 'Lynx', 'year': 2018, 'color': 'Fuscia', 'mileage': 2}
+{'id': 760, 'vin': 'WP0AA2A82CS793621', 'make': 'GMC', 'model': 'Sierra 2500', 'year': 2015, 'color': 'Green', 'mileage': 4}
+{'id': 761, 'vin': '5FRYD3H63EB692019', 'make': 'Audi', 'model': '100', 'year': 2017, 'color': 'Mauv', 'mileage': 5}
+{'id': 762, 'vin': 'YV440MDB2F2299876', 'make': 'Volvo', 'model': 'S60', 'year': 2018, 'color': 'Puce', 'mileage': 1}
+{'id': 763, 'vin': '5UXZV4C57BL620898', 'make': 'Mercury', 'model': 'Villager', 'year': 2016, 'color': 'Maroon', 'mileage': 1}
+{'id': 764, 'vin': 'KMHDB8AE9BU866808', 'make': 'Jeep', 'model': 'Grand Cherokee', 'year': 2016, 'color': 'Maroon', 'mileage': 5}
+{'id': 765, 'vin': 'SCBLF34FX2C717067', 'make': 'Saturn', 'model': 'Astra', 'year': 2016, 'color': 'Orange', 'mileage': 3}
+{'id': 766, 'vin': '1G6DV5EP8B0220353', 'make': 'Chevrolet', 'model': 'Colorado', 'year': 2015, 'color': 'Fuscia', 'mileage': 5}
+{'id': 767, 'vin': '2C3CCAET3CH392327', 'make': 'Mercury', 'model': 'Sable', 'year': 2018, 'color': 'Violet', 'mileage': 1}
+{'id': 768, 'vin': '5N1AN0NU5CC569667', 'make': 'Chevrolet', 'model': 'Express 1500', 'year': 2018, 'color': 'Khaki', 'mileage': 5}
+{'id': 769, 'vin': '1C3CDFCB0ED117809', 'make': 'Nissan', 'model': 'Rogue', 'year': 2015, 'color': 'Maroon', 'mileage': 2}
+{'id': 770, 'vin': 'WBAYP5C56ED944238', 'make': 'GMC', 'model': 'Vandura 1500', 'year': 2016, 'color': 'Yellow', 'mileage': 5}
+{'id': 771, 'vin': '1FA6P0G74F5041113', 'make': 'Toyota', 'model': 'Camry', 'year': 2017, 'color': 'Turquoise', 'mileage': 2}
+{'id': 772, 'vin': 'KNAFK4A67E5258781', 'make': 'Isuzu', 'model': 'Trooper', 'year': 2017, 'color': 'Purple', 'mileage': 5}
+{'id': 773, 'vin': '1G6AS5S37E0821545', 'make': 'Mercedes-Benz', 'model': '500E', 'year': 2015, 'color': 'Turquoise', 'mileage': 3}
+{'id': 774, 'vin': 'KL4CJESB9DB181724', 'make': 'Mitsubishi', 'model': 'Outlander', 'year': 2018, 'color': 'Purple', 'mileage': 2}
+{'id': 775, 'vin': '5FRYD4H22GB927242', 'make': 'Honda', 'model': 'Accord', 'year': 2015, 'color': 'Goldenrod', 'mileage': 3}
+{'id': 776, 'vin': 'WA1WKAFP0CA159933', 'make': 'Lexus', 'model': 'LS', 'year': 2015, 'color': 'Purple', 'mileage': 5}
+{'id': 777, 'vin': '3C63D2JL1CG373206', 'make': 'Isuzu', 'model': 'Amigo', 'year': 2016, 'color': 'Crimson', 'mileage': 2}
+{'id': 778, 'vin': '1GYS4JEF6ER265034', 'make': 'Isuzu', 'model': 'Amigo', 'year': 2016, 'color': 'Crimson', 'mileage': 4}
+{'id': 779, 'vin': 'KNADH4A34B6805894', 'make': 'Bentley', 'model': 'Continental GT', 'year': 2016, 'color': 'Violet', 'mileage': 4}
+{'id': 780, 'vin': '2C3CDXCT1FH937528', 'make': 'Jeep', 'model': 'Cherokee', 'year': 2016, 'color': 'Yellow', 'mileage': 4}
+{'id': 781, 'vin': 'JN1AZ4EH3FM314827', 'make': 'Mazda', 'model': 'B-Series Plus', 'year': 2016, 'color': 'Khaki', 'mileage': 3}
+{'id': 782, 'vin': 'WBABD53444P159364', 'make': 'BMW', 'model': '545', 'year': 2015, 'color': 'Teal', 'mileage': 2}
+{'id': 783, 'vin': '2FMDK3AK6BB662043', 'make': 'Nissan', 'model': 'Pathfinder', 'year': 2015, 'color': 'Mauv', 'mileage': 4}
+{'id': 784, 'vin': 'JH4KA96562C787095', 'make': 'Tesla', 'model': 'Roadster', 'year': 2018, 'color': 'Aquamarine', 'mileage': 4}
+{'id': 785, 'vin': '1FTEX1C81AK938066', 'make': 'Dodge', 'model': 'Viper RT/10', 'year': 2018, 'color': 'Green', 'mileage': 2}
+{'id': 786, 'vin': '3GYT4LEF1CG976086', 'make': 'Dodge', 'model': 'Dakota Club', 'year': 2016, 'color': 'Mauv', 'mileage': 4}
+{'id': 787, 'vin': 'WUARL48H69K669703', 'make': 'BMW', 'model': 'M Roadster', 'year': 2016, 'color': 'Red', 'mileage': 2}
+{'id': 788, 'vin': '4USBT33464L710941', 'make': 'Ford', 'model': 'Escort', 'year': 2015, 'color': 'Aquamarine', 'mileage': 1}
+{'id': 789, 'vin': 'WBADX1C59BE747920', 'make': 'Mitsubishi', 'model': '3000GT', 'year': 2015, 'color': 'Crimson', 'mileage': 3}
+{'id': 790, 'vin': 'WAU3MAFD5FN361170', 'make': 'Honda', 'model': 'Accord', 'year': 2017, 'color': 'Teal', 'mileage': 2}
+{'id': 791, 'vin': 'JH4CL96855C201483', 'make': 'Plymouth', 'model': 'Volare', 'year': 2017, 'color': 'Green', 'mileage': 3}
+{'id': 792, 'vin': '1G4HP52KX54055335', 'make': 'GMC', 'model': 'Vandura 1500', 'year': 2015, 'color': 'Khaki', 'mileage': 1}
+{'id': 793, 'vin': 'JN1BJ0HR7EM649354', 'make': 'Dodge', 'model': 'Ram 2500 Club', 'year': 2017, 'color': 'Violet', 'mileage': 3}
+{'id': 794, 'vin': 'WBAFR9C50BC372707', 'make': 'Volvo', 'model': 'S80', 'year': 2017, 'color': 'Yellow', 'mileage': 5}
+{'id': 795, 'vin': '1GYFC56299R902219', 'make': 'Mitsubishi', 'model': 'Tredia', 'year': 2015, 'color': 'Indigo', 'mileage': 1}
+{'id': 796, 'vin': 'WAULT64B64N714241', 'make': 'Pontiac', 'model': 'Firefly', 'year': 2018, 'color': 'Green', 'mileage': 4}
+{'id': 797, 'vin': '1FTMF1CW7AK332350', 'make': 'Toyota', 'model': 'Yaris', 'year': 2015, 'color': 'Purple', 'mileage': 3}
+{'id': 798, 'vin': '3D4PG1FG2BT160717', 'make': 'Geo', 'model': 'Tracker', 'year': 2018, 'color': 'Yellow', 'mileage': 1}
+{'id': 799, 'vin': 'YV1902FHXD2528701', 'make': 'Saturn', 'model': 'Outlook', 'year': 2016, 'color': 'Khaki', 'mileage': 4}
+{'id': 800, 'vin': '3GTU2YEJ0DG639024', 'make': 'GMC', 'model': 'Vandura 1500', 'year': 2017, 'color': 'Yellow', 'mileage': 4}
+{'id': 801, 'vin': 'WA1WMAFP9EA297404', 'make': 'Jeep', 'model': 'Cherokee', 'year': 2018, 'color': 'Yellow', 'mileage': 4}
+{'id': 802, 'vin': 'WAUKF78EX6A234601', 'make': 'Mercury', 'model': 'Monterey', 'year': 2016, 'color': 'Mauv', 'mileage': 1}
+{'id': 803, 'vin': '2FMPK3J91FB522479', 'make': 'Mitsubishi', 'model': 'Endeavor', 'year': 2016, 'color': 'Maroon', 'mileage': 1}
+{'id': 804, 'vin': '1B3BD1FB9BN492076', 'make': 'Toyota', 'model': 'Sienna', 'year': 2018, 'color': 'Orange', 'mileage': 4}
+{'id': 805, 'vin': '1G6DH1E37E0125977', 'make': 'Lexus', 'model': 'LS', 'year': 2017, 'color': 'Crimson', 'mileage': 3}
+{'id': 806, 'vin': '1C3CCBBB1EN343221', 'make': 'Kia', 'model': 'Rio', 'year': 2018, 'color': 'Fuscia', 'mileage': 1}
+{'id': 807, 'vin': 'WDCYC3HF4AX779118', 'make': 'Chevrolet', 'model': 'S10', 'year': 2017, 'color': 'Khaki', 'mileage': 3}
+{'id': 808, 'vin': 'JTDKDTB37E1426498', 'make': 'Mercury', 'model': 'Sable', 'year': 2015, 'color': 'Violet', 'mileage': 3}
+{'id': 809, 'vin': 'WA1EY74L77D329187', 'make': 'Mazda', 'model': 'MPV', 'year': 2017, 'color': 'Maroon', 'mileage': 1}
+{'id': 810, 'vin': '1GYS4CKJ6FR352986', 'make': 'Ford', 'model': 'Taurus', 'year': 2017, 'color': 'Indigo', 'mileage': 2}
+{'id': 811, 'vin': '1G4HP57M59U377767', 'make': 'Chevrolet', 'model': 'Malibu', 'year': 2015, 'color': 'Blue', 'mileage': 5}
+{'id': 812, 'vin': '1FTSW3B5XAE162642', 'make': 'Chevrolet', 'model': 'Camaro', 'year': 2017, 'color': 'Blue', 'mileage': 2}
+{'id': 813, 'vin': 'WAUET48H85K069008', 'make': 'Saab', 'model': '9-3', 'year': 2016, 'color': 'Maroon', 'mileage': 2}
+{'id': 814, 'vin': 'WBAVT13596K874285', 'make': 'Audi', 'model': '100', 'year': 2015, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 815, 'vin': '4JGDA2EB2CA025576', 'make': 'Rolls-Royce', 'model': 'Phantom', 'year': 2018, 'color': 'Mauv', 'mileage': 2}
+{'id': 816, 'vin': '2HNYD18851H930667', 'make': 'Ford', 'model': 'F-Series Super Duty', 'year': 2016, 'color': 'Khaki', 'mileage': 1}
+{'id': 817, 'vin': 'WAUDFAFL8BA276833', 'make': 'Lotus', 'model': 'Esprit', 'year': 2018, 'color': 'Goldenrod', 'mileage': 3}
+{'id': 818, 'vin': '19UUA56902A455866', 'make': 'Chevrolet', 'model': 'Malibu', 'year': 2016, 'color': 'Purple', 'mileage': 1}
+{'id': 819, 'vin': 'WBAVD53507A913518', 'make': 'Land Rover', 'model': 'Range Rover', 'year': 2016, 'color': 'Puce', 'mileage': 2}
+{'id': 820, 'vin': 'WAUDF68E75A735771', 'make': 'BMW', 'model': 'X6 M', 'year': 2015, 'color': 'Green', 'mileage': 3}
+{'id': 821, 'vin': '1G4HP52K844712597', 'make': 'Dodge', 'model': 'Caravan', 'year': 2017, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 822, 'vin': '55SWF4JB2FU241826', 'make': 'Mercedes-Benz', 'model': '400SE', 'year': 2017, 'color': 'Pink', 'mileage': 2}
+{'id': 823, 'vin': '5NPEB4AC0CH176554', 'make': 'Oldsmobile', 'model': 'Bravada', 'year': 2015, 'color': 'Violet', 'mileage': 4}
+{'id': 824, 'vin': '5FRYD3H97GB070942', 'make': 'Ford', 'model': 'Taurus', 'year': 2018, 'color': 'Puce', 'mileage': 4}
+{'id': 825, 'vin': 'WBAKE3C52BE835412', 'make': 'Cadillac', 'model': 'Escalade ESV', 'year': 2017, 'color': 'Maroon', 'mileage': 1}
+{'id': 826, 'vin': '3LNDL2L38BR126986', 'make': 'Ford', 'model': 'Tempo', 'year': 2018, 'color': 'Crimson', 'mileage': 4}
+{'id': 827, 'vin': '1GKS2GEJ1DR468371', 'make': 'Ford', 'model': 'Aerostar', 'year': 2015, 'color': 'Turquoise', 'mileage': 1}
+{'id': 828, 'vin': '5FNRL3H29AB012091', 'make': 'Mercury', 'model': 'Tracer', 'year': 2018, 'color': 'Green', 'mileage': 4}
+{'id': 829, 'vin': '1GT020CG0EF060738', 'make': 'BMW', 'model': 'X3', 'year': 2016, 'color': 'Teal', 'mileage': 1}
+{'id': 830, 'vin': 'JM1DE1KY7C0078369', 'make': 'Toyota', 'model': 'Tundra', 'year': 2016, 'color': 'Crimson', 'mileage': 1}
+{'id': 831, 'vin': '1GT3CZBG1AF951745', 'make': 'Mitsubishi', 'model': 'Mighty Max', 'year': 2018, 'color': 'Red', 'mileage': 3}
+{'id': 832, 'vin': '2C3CCAHG0CH536981', 'make': 'Fillmore', 'model': 'Fillmore', 'year': 2015, 'color': 'Indigo', 'mileage': 5}
+{'id': 833, 'vin': '1G6DP5ED2B0176172', 'make': 'Jaguar', 'model': 'S-Type', 'year': 2016, 'color': 'Red', 'mileage': 2}
+{'id': 834, 'vin': 'WVWAB7AJ4DW589135', 'make': 'Chevrolet', 'model': 'Prizm', 'year': 2017, 'color': 'Orange', 'mileage': 1}
+{'id': 835, 'vin': 'WBAVB73598K256666', 'make': 'Ford', 'model': 'Focus', 'year': 2018, 'color': 'Yellow', 'mileage': 2}
+{'id': 836, 'vin': '1B3BD2FB9BN772876', 'make': 'Subaru', 'model': 'Impreza WRX', 'year': 2018, 'color': 'Orange', 'mileage': 4}
+{'id': 837, 'vin': 'WA1VMAFE8ED893189', 'make': 'Pontiac', 'model': 'Sunbird', 'year': 2018, 'color': 'Fuscia', 'mileage': 1}
+{'id': 838, 'vin': 'JTDKN3DU7F0850919', 'make': 'Cadillac', 'model': 'CTS', 'year': 2018, 'color': 'Purple', 'mileage': 2}
+{'id': 839, 'vin': '1GYS4BEF0ER883732', 'make': 'Dodge', 'model': 'Dakota', 'year': 2016, 'color': 'Red', 'mileage': 5}
+{'id': 840, 'vin': 'JN8AZ1MUXEW006734', 'make': 'Dodge', 'model': 'Ram 1500', 'year': 2016, 'color': 'Blue', 'mileage': 3}
+{'id': 841, 'vin': '1GKUKFDJ2AR052264', 'make': 'Toyota', 'model': 'Previa', 'year': 2017, 'color': 'Green', 'mileage': 3}
+{'id': 842, 'vin': 'WAUJGBFC2DN526665', 'make': 'Kia', 'model': 'Rio', 'year': 2018, 'color': 'Fuscia', 'mileage': 4}
+{'id': 843, 'vin': 'SCFFDCCD5AG420846', 'make': 'Volkswagen', 'model': 'GTI', 'year': 2016, 'color': 'Khaki', 'mileage': 2}
+{'id': 844, 'vin': 'WBANB33544B131190', 'make': 'Pontiac', 'model': 'Firebird', 'year': 2018, 'color': 'Purple', 'mileage': 3}
+{'id': 845, 'vin': '1G6DP577670330428', 'make': 'Hyundai', 'model': 'Sonata', 'year': 2015, 'color': 'Blue', 'mileage': 3}
+{'id': 846, 'vin': '2LMDJ6JK5BB232340', 'make': 'Honda', 'model': 'Civic', 'year': 2015, 'color': 'Crimson', 'mileage': 1}
+{'id': 847, 'vin': '5NPEB4ACXBH154897', 'make': 'BMW', 'model': 'Z4', 'year': 2016, 'color': 'Purple', 'mileage': 2}
+{'id': 848, 'vin': '1GTN1TEH6EZ817740', 'make': 'Infiniti', 'model': 'G25', 'year': 2016, 'color': 'Turquoise', 'mileage': 5}
+{'id': 849, 'vin': '1GYS3HEF2DR864197', 'make': 'Nissan', 'model': 'Cube', 'year': 2016, 'color': 'Turquoise', 'mileage': 1}
+{'id': 850, 'vin': 'JN1AZ4EH7AM050200', 'make': 'Volkswagen', 'model': 'Cabriolet', 'year': 2016, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 851, 'vin': '1C4RDHDG0FC327734', 'make': 'Hyundai', 'model': 'Genesis', 'year': 2015, 'color': 'Maroon', 'mileage': 5}
+{'id': 852, 'vin': '1N6AA0CC6AN134522', 'make': 'GMC', 'model': 'Sonoma', 'year': 2015, 'color': 'Violet', 'mileage': 3}
+{'id': 853, 'vin': 'WAUGL98E77A749762', 'make': 'Land Rover', 'model': 'Range Rover Sport', 'year': 2017, 'color': 'Green', 'mileage': 5}
+{'id': 854, 'vin': 'JH4CU25659C900591', 'make': 'Audi', 'model': 'A8', 'year': 2018, 'color': 'Red', 'mileage': 4}
+{'id': 855, 'vin': '1G6AE5SX1E0092422', 'make': 'Ford', 'model': 'Windstar', 'year': 2017, 'color': 'Khaki', 'mileage': 4}
+{'id': 856, 'vin': 'JTHKD5BHXC2074448', 'make': 'Oldsmobile', 'model': '88', 'year': 2018, 'color': 'Khaki', 'mileage': 2}
+{'id': 857, 'vin': 'WA1WMAFE7AD069361', 'make': 'Dodge', 'model': 'Caravan', 'year': 2016, 'color': 'Violet', 'mileage': 2}
+{'id': 858, 'vin': '2T1KU4EE4BC255140', 'make': 'Mercedes-Benz', 'model': 'Sprinter 2500', 'year': 2016, 'color': 'Mauv', 'mileage': 5}
+{'id': 859, 'vin': '3N1AB6AP4CL566797', 'make': 'Ford', 'model': 'Edge', 'year': 2018, 'color': 'Aquamarine', 'mileage': 4}
+{'id': 860, 'vin': 'WAUFMBFC1EN215700', 'make': 'Honda', 'model': 'Prelude', 'year': 2015, 'color': 'Violet', 'mileage': 1}
+{'id': 861, 'vin': 'WBALW3C54CC132893', 'make': 'Audi', 'model': '5000S', 'year': 2017, 'color': 'Pink', 'mileage': 1}
+{'id': 862, 'vin': 'JTDZN3EU1FJ372522', 'make': 'Lexus', 'model': 'RX Hybrid', 'year': 2018, 'color': 'Teal', 'mileage': 1}
+{'id': 863, 'vin': 'SCBLC37F24C775746', 'make': 'Maybach', 'model': '57', 'year': 2018, 'color': 'Yellow', 'mileage': 5}
+{'id': 864, 'vin': '4T1BD1EB8DU515965', 'make': 'Nissan', 'model': 'Armada', 'year': 2015, 'color': 'Turquoise', 'mileage': 5}
+{'id': 865, 'vin': 'WBANN735X7C654002', 'make': 'Honda', 'model': 'Element', 'year': 2018, 'color': 'Aquamarine', 'mileage': 4}
+{'id': 866, 'vin': '1N6AA0CC2EN583136', 'make': 'Jeep', 'model': 'Wrangler', 'year': 2018, 'color': 'Purple', 'mileage': 3}
+{'id': 867, 'vin': 'WAUDF98E18A433494', 'make': 'Mazda', 'model': 'Tribute', 'year': 2016, 'color': 'Green', 'mileage': 1}
+{'id': 868, 'vin': 'WAUKD98P06A437211', 'make': 'Cadillac', 'model': 'Escalade ESV', 'year': 2015, 'color': 'Blue', 'mileage': 5}
+{'id': 869, 'vin': '1FTEW1C87AK143669', 'make': 'Lexus', 'model': 'SC', 'year': 2016, 'color': 'Aquamarine', 'mileage': 3}
+{'id': 870, 'vin': '1D7CE2GK2AS325603', 'make': 'Dodge', 'model': 'Ram 2500', 'year': 2018, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 871, 'vin': '1C3BC7EGXBN970009', 'make': 'GMC', 'model': 'Sierra 1500', 'year': 2015, 'color': 'Indigo', 'mileage': 4}
+{'id': 872, 'vin': 'KMHHT6KD6DU935305', 'make': 'Oldsmobile', 'model': 'Silhouette', 'year': 2015, 'color': 'Crimson', 'mileage': 2}
+{'id': 873, 'vin': 'WAUSF98EX7A231002', 'make': 'Chevrolet', 'model': '3500', 'year': 2017, 'color': 'Blue', 'mileage': 4}
+{'id': 874, 'vin': '1G6ET12942B889135', 'make': 'Porsche', 'model': '911', 'year': 2015, 'color': 'Violet', 'mileage': 4}
+{'id': 875, 'vin': '1GKUCGEJ2AR877447', 'make': 'GMC', 'model': 'Suburban 1500', 'year': 2016, 'color': 'Turquoise', 'mileage': 2}
+{'id': 876, 'vin': '3D4PH3FG6BT903274', 'make': 'Ferrari', 'model': '612 Scaglietti', 'year': 2016, 'color': 'Puce', 'mileage': 4}
+{'id': 877, 'vin': 'WAUAH74F99N200084', 'make': 'Nissan', 'model': 'Versa', 'year': 2017, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 878, 'vin': 'JTDZN3EU4EJ134548', 'make': 'Ford', 'model': 'Mustang', 'year': 2015, 'color': 'Yellow', 'mileage': 1}
+{'id': 879, 'vin': 'WAUEF98EX7A416695', 'make': 'Subaru', 'model': 'Impreza WRX', 'year': 2016, 'color': 'Teal', 'mileage': 5}
+{'id': 880, 'vin': 'JTHBL5EF1F5741746', 'make': 'Lamborghini', 'model': 'Murciélago', 'year': 2018, 'color': 'Orange', 'mileage': 3}
+{'id': 881, 'vin': 'WAUSH78E27A372046', 'make': 'Chrysler', 'model': 'Concorde', 'year': 2016, 'color': 'Khaki', 'mileage': 5}
+{'id': 882, 'vin': '2G61S5S32F9403188', 'make': 'Volkswagen', 'model': 'GTI', 'year': 2017, 'color': 'Crimson', 'mileage': 5}
+{'id': 883, 'vin': '3N1CN7AP5EK945838', 'make': 'Lotus', 'model': 'Esprit', 'year': 2015, 'color': 'Puce', 'mileage': 1}
+{'id': 884, 'vin': '1C6RD6HT6CS766778', 'make': 'Dodge', 'model': 'Grand Caravan', 'year': 2016, 'color': 'Crimson', 'mileage': 5}
+{'id': 885, 'vin': '3GYVKNEF5AG670483', 'make': 'Ford', 'model': 'Ranger', 'year': 2017, 'color': 'Blue', 'mileage': 2}
+{'id': 886, 'vin': 'WAUDGBFL4AA607330', 'make': 'Lincoln', 'model': 'Navigator', 'year': 2017, 'color': 'Pink', 'mileage': 4}
+{'id': 887, 'vin': 'WAUDFAFL3BN074734', 'make': 'Cadillac', 'model': 'Escalade ESV', 'year': 2018, 'color': 'Blue', 'mileage': 4}
+{'id': 888, 'vin': '3N1AB7APXFY996041', 'make': 'Nissan', 'model': 'Pathfinder', 'year': 2017, 'color': 'Fuscia', 'mileage': 4}
+{'id': 889, 'vin': '2T1BU4EE5DC162842', 'make': 'Chevrolet', 'model': 'Express 3500', 'year': 2017, 'color': 'Khaki', 'mileage': 5}
+{'id': 890, 'vin': 'WBAYE4C50DD253818', 'make': 'Ford', 'model': 'Aerostar', 'year': 2018, 'color': 'Indigo', 'mileage': 1}
+{'id': 891, 'vin': '2B3CK5CTXAH088516', 'make': 'Dodge', 'model': 'Ram', 'year': 2015, 'color': 'Puce', 'mileage': 5}
+{'id': 892, 'vin': 'WBA3R5C52EK465430', 'make': 'Subaru', 'model': 'Brat', 'year': 2015, 'color': 'Yellow', 'mileage': 5}
+{'id': 893, 'vin': '1G6KE54Y82U040252', 'make': 'Chevrolet', 'model': 'Express 2500', 'year': 2015, 'color': 'Fuscia', 'mileage': 4}
+{'id': 894, 'vin': 'JN8BS1MW6DM333197', 'make': 'Pontiac', 'model': '6000', 'year': 2015, 'color': 'Teal', 'mileage': 5}
+{'id': 895, 'vin': 'JTEBU5JR3A5371841', 'make': 'Land Rover', 'model': 'Range Rover', 'year': 2016, 'color': 'Blue', 'mileage': 2}
+{'id': 896, 'vin': 'WP0AB2A82CS455214', 'make': 'GMC', 'model': '3500', 'year': 2017, 'color': 'Crimson', 'mileage': 5}
+{'id': 897, 'vin': '5TDBKRFH8ES693411', 'make': 'Chevrolet', 'model': 'Avalanche', 'year': 2016, 'color': 'Blue', 'mileage': 3}
+{'id': 898, 'vin': 'JTHKD5BH4D2958323', 'make': 'Infiniti', 'model': 'I', 'year': 2015, 'color': 'Mauv', 'mileage': 2}
+{'id': 899, 'vin': 'JN1BY1AR1EM219024', 'make': 'Volkswagen', 'model': 'Golf', 'year': 2018, 'color': 'Violet', 'mileage': 3}
+{'id': 900, 'vin': 'TRUVD38J791444384', 'make': 'GMC', 'model': 'Yukon XL 2500', 'year': 2016, 'color': 'Teal', 'mileage': 4}
+{'id': 901, 'vin': 'JN1BY0AR0AM191379', 'make': 'Dodge', 'model': 'Caravan', 'year': 2018, 'color': 'Puce', 'mileage': 2}
+{'id': 902, 'vin': 'KMHGN4JE6FU666147', 'make': 'Pontiac', 'model': 'Solstice', 'year': 2018, 'color': 'Violet', 'mileage': 3}
+{'id': 903, 'vin': '5TDBK3EHXBS439676', 'make': 'Hyundai', 'model': 'HED-5', 'year': 2018, 'color': 'Pink', 'mileage': 3}
+{'id': 904, 'vin': '2G4G05GV7B9733115', 'make': 'Mazda', 'model': 'RX-7', 'year': 2016, 'color': 'Yellow', 'mileage': 3}
+{'id': 905, 'vin': 'WAUDFAFL8FN133203', 'make': 'Pontiac', 'model': 'Vibe', 'year': 2017, 'color': 'Indigo', 'mileage': 3}
+{'id': 906, 'vin': '2C3CCABGXDH317374', 'make': 'Chevrolet', 'model': 'Malibu', 'year': 2017, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 907, 'vin': 'WAUMK78K19A907533', 'make': 'Ford', 'model': 'Escort', 'year': 2016, 'color': 'Goldenrod', 'mileage': 1}
+{'id': 908, 'vin': '3GTU1YEJ8BG633049', 'make': 'Lincoln', 'model': 'Mark VIII', 'year': 2017, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 909, 'vin': 'JTDKTUD34DD906310', 'make': 'BMW', 'model': '3 Series', 'year': 2017, 'color': 'Indigo', 'mileage': 3}
+{'id': 910, 'vin': '4A31K2DF9AE459005', 'make': 'Ford', 'model': 'Econoline E350', 'year': 2016, 'color': 'Blue', 'mileage': 2}
+{'id': 911, 'vin': 'WDDHH8HB8BA230064', 'make': 'Mitsubishi', 'model': 'Diamante', 'year': 2017, 'color': 'Maroon', 'mileage': 3}
+{'id': 912, 'vin': '1N4AL3AP2DC504746', 'make': 'Chevrolet', 'model': 'Malibu', 'year': 2015, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 913, 'vin': '4A31K5DF5BE579533', 'make': 'Dodge', 'model': 'Charger', 'year': 2016, 'color': 'Fuscia', 'mileage': 4}
+{'id': 914, 'vin': 'WBALL5C51EJ647000', 'make': 'Chevrolet', 'model': 'Silverado 2500', 'year': 2018, 'color': 'Violet', 'mileage': 4}
+{'id': 915, 'vin': '1C6RD7MT3CS860273', 'make': 'Honda', 'model': 'Pilot', 'year': 2016, 'color': 'Khaki', 'mileage': 2}
+{'id': 916, 'vin': 'TRURD38J581113237', 'make': 'Dodge', 'model': 'Charger', 'year': 2015, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 917, 'vin': '1C3CDFAA0FD246077', 'make': 'Land Rover', 'model': 'Discovery', 'year': 2018, 'color': 'Orange', 'mileage': 5}
+{'id': 918, 'vin': '1D7RB1GP6BS916799', 'make': 'Mazda', 'model': 'Miata MX-5', 'year': 2017, 'color': 'Khaki', 'mileage': 2}
+{'id': 919, 'vin': 'JTDZN3EU8FJ606672', 'make': 'Spyker', 'model': 'C8', 'year': 2017, 'color': 'Fuscia', 'mileage': 4}
+{'id': 920, 'vin': 'KNADH4A34B6321028', 'make': 'Chevrolet', 'model': 'Camaro', 'year': 2018, 'color': 'Mauv', 'mileage': 3}
+{'id': 921, 'vin': '1C4NJPBA0FD207393', 'make': 'Toyota', 'model': 'Tundra', 'year': 2015, 'color': 'Pink', 'mileage': 3}
+{'id': 922, 'vin': '1G6DV5EP5C0368994', 'make': 'Volkswagen', 'model': 'Passat', 'year': 2018, 'color': 'Violet', 'mileage': 3}
+{'id': 923, 'vin': 'JN8AS5MT4DW041948', 'make': 'Volkswagen', 'model': 'Passat', 'year': 2018, 'color': 'Pink', 'mileage': 3}
+{'id': 924, 'vin': 'WVGAV7AX2AW427832', 'make': 'Audi', 'model': 'A4', 'year': 2018, 'color': 'Orange', 'mileage': 2}
+{'id': 925, 'vin': 'WBAVA33508F842032', 'make': 'Acura', 'model': 'RSX', 'year': 2016, 'color': 'Pink', 'mileage': 3}
+{'id': 926, 'vin': '2G4WY55J511174696', 'make': 'Dodge', 'model': 'Ram 2500', 'year': 2017, 'color': 'Maroon', 'mileage': 3}
+{'id': 927, 'vin': 'WA1C8AFP5EA543310', 'make': 'BMW', 'model': 'M5', 'year': 2016, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 928, 'vin': '3D73M4EL4AG756106', 'make': 'Plymouth', 'model': 'Prowler', 'year': 2017, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 929, 'vin': '1GYUCFEJ9AR987024', 'make': 'Ford', 'model': 'Aspire', 'year': 2015, 'color': 'Turquoise', 'mileage': 4}
+{'id': 930, 'vin': 'JN1CV6EK7DM262773', 'make': 'Ford', 'model': 'E-Series', 'year': 2017, 'color': 'Mauv', 'mileage': 2}
+{'id': 931, 'vin': 'WBAUU33529A512071', 'make': 'Chevrolet', 'model': 'Tahoe', 'year': 2018, 'color': 'Crimson', 'mileage': 2}
+{'id': 932, 'vin': 'WP0CB2A88FK718951', 'make': 'Volkswagen', 'model': 'Fox', 'year': 2018, 'color': 'Green', 'mileage': 2}
+{'id': 933, 'vin': 'JN8AS1MU0CM223402', 'make': 'Audi', 'model': 'A8', 'year': 2017, 'color': 'Khaki', 'mileage': 2}
+{'id': 934, 'vin': '1N6AF0LY6FN222829', 'make': 'Chevrolet', 'model': 'Aveo', 'year': 2015, 'color': 'Green', 'mileage': 4}
+{'id': 935, 'vin': 'JTHFE2C29F2639946', 'make': 'Subaru', 'model': 'Tribeca', 'year': 2016, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 936, 'vin': '2T1KU4EE2DC550594', 'make': 'Kia', 'model': 'Spectra', 'year': 2015, 'color': 'Fuscia', 'mileage': 4}
+{'id': 937, 'vin': '5N1CR2MM7EC144965', 'make': 'Lincoln', 'model': 'MKX', 'year': 2016, 'color': 'Puce', 'mileage': 4}
+{'id': 938, 'vin': 'W04GS5EC7B1826327', 'make': 'Subaru', 'model': 'Outback', 'year': 2015, 'color': 'Puce', 'mileage': 3}
+{'id': 939, 'vin': 'WAUWGAFB8AN158835', 'make': 'Maybach', 'model': '57', 'year': 2017, 'color': 'Khaki', 'mileage': 1}
+{'id': 940, 'vin': 'WAUHGBFC5EN019467', 'make': 'Ford', 'model': 'GT', 'year': 2015, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 941, 'vin': '1FTEW1CM0CF185769', 'make': 'Maserati', 'model': 'Quattroporte', 'year': 2018, 'color': 'Orange', 'mileage': 2}
+{'id': 942, 'vin': 'JTHBK1EG1B2494583', 'make': 'Mercedes-Benz', 'model': 'S-Class', 'year': 2017, 'color': 'Green', 'mileage': 3}
+{'id': 943, 'vin': '3FA6P0PU7FR795299', 'make': 'Jeep', 'model': 'Patriot', 'year': 2017, 'color': 'Crimson', 'mileage': 3}
+{'id': 944, 'vin': 'WA1LGBFE9ED562383', 'make': 'Mazda', 'model': '323', 'year': 2017, 'color': 'Red', 'mileage': 1}
+{'id': 945, 'vin': '1G6DA5EG3A0439960', 'make': 'BMW', 'model': '7 Series', 'year': 2015, 'color': 'Yellow', 'mileage': 5}
+{'id': 946, 'vin': '19XFA1E55BE520500', 'make': 'Mercury', 'model': 'Grand Marquis', 'year': 2016, 'color': 'Turquoise', 'mileage': 2}
+{'id': 947, 'vin': 'JTHBL5EF9F5077924', 'make': 'Chevrolet', 'model': 'G-Series 2500', 'year': 2017, 'color': 'Yellow', 'mileage': 3}
+{'id': 948, 'vin': 'WBALW7C51ED020265', 'make': 'Oldsmobile', 'model': 'Aurora', 'year': 2016, 'color': 'Crimson', 'mileage': 2}
+{'id': 949, 'vin': 'JH4CW2H58DC702741', 'make': 'Chevrolet', 'model': 'Blazer', 'year': 2017, 'color': 'Violet', 'mileage': 1}
+{'id': 950, 'vin': 'WAUKFBFL6AA417006', 'make': 'Volvo', 'model': 'C30', 'year': 2018, 'color': 'Crimson', 'mileage': 3}
+{'id': 951, 'vin': 'SCFEDCAD4CG117445', 'make': 'Chevrolet', 'model': 'Suburban 2500', 'year': 2015, 'color': 'Purple', 'mileage': 4}
+{'id': 952, 'vin': '1G6AT5SXXE0694077', 'make': 'Chrysler', 'model': '300C', 'year': 2017, 'color': 'Pink', 'mileage': 4}
+{'id': 953, 'vin': '1GYEE437680253417', 'make': 'Nissan', 'model': 'Quest', 'year': 2018, 'color': 'Pink', 'mileage': 1}
+{'id': 954, 'vin': '1FTEW1CM7CK467849', 'make': 'Toyota', 'model': 'Camry', 'year': 2015, 'color': 'Yellow', 'mileage': 3}
+{'id': 955, 'vin': 'JH4CU2F88EC607147', 'make': 'Geo', 'model': 'Prizm', 'year': 2015, 'color': 'Goldenrod', 'mileage': 4}
+{'id': 956, 'vin': 'JTEBU5JR1A5706997', 'make': 'Mercedes-Benz', 'model': 'CLK-Class', 'year': 2017, 'color': 'Green', 'mileage': 2}
+{'id': 957, 'vin': '1G6DS5EV2A0122988', 'make': 'Chrysler', 'model': 'Aspen', 'year': 2017, 'color': 'Green', 'mileage': 1}
+{'id': 958, 'vin': '19XFB4F26FE387156', 'make': 'Land Rover', 'model': 'Freelander', 'year': 2015, 'color': 'Pink', 'mileage': 3}
+{'id': 959, 'vin': '1G6AY5SX9E0209672', 'make': 'Mazda', 'model': 'Protege', 'year': 2017, 'color': 'Violet', 'mileage': 2}
+{'id': 960, 'vin': '5UXWX7C52BL796434', 'make': 'Mercury', 'model': 'Sable', 'year': 2018, 'color': 'Yellow', 'mileage': 5}
+{'id': 961, 'vin': '1G6DS8ED6B0011354', 'make': 'Honda', 'model': 'Fit', 'year': 2017, 'color': 'Violet', 'mileage': 3}
+{'id': 962, 'vin': 'WBAEV33473P868920', 'make': 'Dodge', 'model': 'Grand Caravan', 'year': 2015, 'color': 'Aquamarine', 'mileage': 3}
+{'id': 963, 'vin': 'WAULFAFH7DN916971', 'make': 'Audi', 'model': 'V8', 'year': 2017, 'color': 'Khaki', 'mileage': 4}
+{'id': 964, 'vin': 'JTHBL5EF4F5572001', 'make': 'Dodge', 'model': 'Grand Caravan', 'year': 2015, 'color': 'Teal', 'mileage': 4}
+{'id': 965, 'vin': '5J6TF2H53FL349825', 'make': 'Cadillac', 'model': 'Escalade', 'year': 2015, 'color': 'Yellow', 'mileage': 3}
+{'id': 966, 'vin': '3D73Y3HL9AG645321', 'make': 'GMC', 'model': '3500 Club Coupe', 'year': 2016, 'color': 'Teal', 'mileage': 1}
+{'id': 967, 'vin': 'WBAFR7C54DC521207', 'make': 'Maserati', 'model': 'Quattroporte', 'year': 2017, 'color': 'Goldenrod', 'mileage': 5}
+{'id': 968, 'vin': '1G4HP54K134386766', 'make': 'Jaguar', 'model': 'S-Type', 'year': 2016, 'color': 'Turquoise', 'mileage': 3}
+{'id': 969, 'vin': 'WAULC58E84A432057', 'make': 'Kia', 'model': 'Sportage', 'year': 2018, 'color': 'Purple', 'mileage': 3}
+{'id': 970, 'vin': '3D7TT2CTXAG005036', 'make': 'Ford', 'model': 'Thunderbird', 'year': 2018, 'color': 'Green', 'mileage': 5}
+{'id': 971, 'vin': 'WAUDF78E96A948650', 'make': 'Eagle', 'model': 'Summit', 'year': 2017, 'color': 'Orange', 'mileage': 4}
+{'id': 972, 'vin': '1G6DD67V190951267', 'make': 'Mercury', 'model': 'Capri', 'year': 2018, 'color': 'Violet', 'mileage': 1}
+{'id': 973, 'vin': 'KL4CJGSB4FB275704', 'make': 'Lotus', 'model': 'Elan', 'year': 2017, 'color': 'Turquoise', 'mileage': 5}
+{'id': 974, 'vin': '1D7RV1CP3AS427871', 'make': 'Volvo', 'model': 'C70', 'year': 2016, 'color': 'Yellow', 'mileage': 2}
+{'id': 975, 'vin': '3D73Y4HL6BG535852', 'make': 'Volkswagen', 'model': 'New Beetle', 'year': 2015, 'color': 'Maroon', 'mileage': 1}
+{'id': 976, 'vin': '19UUA56791A946644', 'make': 'Toyota', 'model': 'Corolla', 'year': 2018, 'color': 'Green', 'mileage': 5}
+{'id': 977, 'vin': 'JA32X8HW1AU966359', 'make': 'Daewoo', 'model': 'Leganza', 'year': 2018, 'color': 'Purple', 'mileage': 4}
+{'id': 978, 'vin': '3N1CE2CP8FL616711', 'make': 'Mitsubishi', 'model': 'GTO', 'year': 2018, 'color': 'Pink', 'mileage': 4}
+{'id': 979, 'vin': 'YV1902MM1F1220065', 'make': 'Pontiac', 'model': 'Firebird', 'year': 2016, 'color': 'Maroon', 'mileage': 1}
+{'id': 980, 'vin': '1GD311CG1FZ406989', 'make': 'Chevrolet', 'model': 'Corvette', 'year': 2018, 'color': 'Fuscia', 'mileage': 5}
+{'id': 981, 'vin': 'WBAWB73557P728545', 'make': 'Buick', 'model': 'Regal', 'year': 2017, 'color': 'Red', 'mileage': 5}
+{'id': 982, 'vin': 'WBSWL93569P048242', 'make': 'Maserati', 'model': '430', 'year': 2016, 'color': 'Red', 'mileage': 5}
+{'id': 983, 'vin': '1C3CDFBB3FD706372', 'make': 'Ford', 'model': 'F-Series', 'year': 2016, 'color': 'Red', 'mileage': 4}
+{'id': 984, 'vin': '1N4AB7AP1DN647864', 'make': 'Acura', 'model': 'TL', 'year': 2017, 'color': 'Red', 'mileage': 1}
+{'id': 985, 'vin': '3VW467AT6DM316424', 'make': 'Mitsubishi', 'model': 'RVR', 'year': 2015, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 986, 'vin': 'WBA3A9C56FK500308', 'make': 'Chevrolet', 'model': 'Cavalier', 'year': 2015, 'color': 'Puce', 'mileage': 4}
+{'id': 987, 'vin': 'KNAFT4A28D5679790', 'make': 'Toyota', 'model': 'Solara', 'year': 2015, 'color': 'Aquamarine', 'mileage': 2}
+{'id': 988, 'vin': '1G6DL1ED8B0184345', 'make': 'Toyota', 'model': 'Corolla', 'year': 2018, 'color': 'Goldenrod', 'mileage': 2}
+{'id': 989, 'vin': 'JTHBP5C28B5010861', 'make': 'GMC', 'model': 'Savana 2500', 'year': 2018, 'color': 'Purple', 'mileage': 4}
+{'id': 990, 'vin': '1D7RW2BK0BS215875', 'make': 'Pontiac', 'model': 'Grand Prix', 'year': 2018, 'color': 'Crimson', 'mileage': 5}
+{'id': 991, 'vin': '2T1BU4EE6BC029004', 'make': 'Mercury', 'model': 'Milan', 'year': 2017, 'color': 'Orange', 'mileage': 5}
+{'id': 992, 'vin': 'WAUKFAFL0CN486411', 'make': 'Toyota', 'model': 'Land Cruiser', 'year': 2017, 'color': 'Purple', 'mileage': 3}
+{'id': 993, 'vin': '1FTSW3A5XAE579910', 'make': 'Saturn', 'model': 'Outlook', 'year': 2016, 'color': 'Green', 'mileage': 5}
+{'id': 994, 'vin': '1D7RE3BK5BS839437', 'make': 'Audi', 'model': 'A8', 'year': 2016, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 995, 'vin': '5UXFA13585L396607', 'make': 'Porsche', 'model': '911', 'year': 2018, 'color': 'Puce', 'mileage': 4}
+{'id': 996, 'vin': '1GYS3BEFXCR607123', 'make': 'Acura', 'model': 'RL', 'year': 2018, 'color': 'Aquamarine', 'mileage': 5}
+{'id': 997, 'vin': '3VWF17AT6FM927581', 'make': 'Ford', 'model': 'Five Hundred', 'year': 2015, 'color': 'Teal', 'mileage': 4}
+{'id': 998, 'vin': 'KNADN5A36F6684189', 'make': 'Ford', 'model': 'Expedition EL', 'year': 2017, 'color': 'Orange', 'mileage': 1}
+{'id': 999, 'vin': 'WBA5M6C54ED379568', 'make': 'Cadillac', 'model': 'Escalade ESV', 'year': 2017, 'color': 'Violet', 'mileage': 4}
+{'id': 1000, 'vin': '1N6AA0CJ5DN749047', 'make': 'Toyota', 'model': 'Matrix', 'year': 2015, 'color': 'Aquamarine', 'mileage': 5}

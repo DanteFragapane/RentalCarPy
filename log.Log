@@ -1,0 +1,2 @@
+INFO 2018-09-12 15:45:50,412 - Logger is at level: 0
+DEBUG 2018-09-12 15:45:52,856 - First row of data: {'id': 1, 'start_date': '2018-08-06 14:08:44', 'end_date': '2018-09-10 19:53:02', 'vehicle_class': 'SCAR', 'location': 'Mandalt'}
