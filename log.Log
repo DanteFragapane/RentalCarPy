@@ -1,2 +1,2 @@
-INFO 2018-09-13 09:32:09,325 - Logger is at level: 0
-DEBUG 2018-09-13 09:32:11,867 - First row of data, reservations: {'id': 233, 'start_date': datetime.datetime(2018, 8, 1, 0, 34, 25), 'end_date': '2018-09-06 16:33:53', 'vehicle_class': 'PFAR', 'location': 'Tirlyanskiy'}
+createTablesDB INFO 2018-11-10 13:16:31,863 - Logger is at level: 0
+__main__ INFO 2018-11-10 13:16:32,087 - Logger is at level: 0
